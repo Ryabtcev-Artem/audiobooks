@@ -242,6 +242,7 @@ body {
 .layout__main {
   flex: 1;
   padding: var(--space-xl);
+  padding-top: var(--space-md);
   max-width: 72rem;
   margin: 0 auto;
   width: 100%;
@@ -798,11 +799,6 @@ body {
 }
 
 @media (max-width: 40rem) {
-  .layout__header,
-  .layout__main,
-  .book-page__header {
-    margin-bottom: var(--space-md);
-  }
   .layout__footer {
     padding: var(--space-md);
   }
@@ -854,6 +850,34 @@ body {
 
     column-gap: 6px;
   }
+
+  .audio-player__btn:not(.audio-player__btn--primary) {
+    padding: 0.4rem 0.6rem;
+    font-size: 1rem;
+    min-width: auto;
+  }
+
+  .audio-player__select {
+    min-height: 2.5rem;
+    padding: 0.5rem 0.6rem;
+    font-size: 1rem;
+  }
+
+  .book-page__header {
+    margin-bottom: var(--space-lg);
+    gap: var(--space-md);
+  }
+
+  .book-page__title {
+    margin-bottom: 0.25rem;
+  }
+
+  .book-page__author,
+  .book-page__meta,
+  .book-page__narrators {
+    margin-bottom: 0.25rem;
+  }
+
   .audio-player {
     margin-top: 0;
   }
