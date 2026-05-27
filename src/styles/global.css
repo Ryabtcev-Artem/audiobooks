@@ -133,7 +133,7 @@ body {
 .layout__nav-link--active {
   border-color: var(--color-accent);
   background: var(--color-accent);
-  color: #000;
+  color: #fff;
 }
 
 .layout__nav-count {
@@ -173,13 +173,52 @@ body {
 .header-search__input {
   min-height: var(--min-touch);
   padding: var(--space-sm) var(--space-md);
-  font-size: var(--font-size-lg);
   color: var(--color-text);
   background: var(--color-bg);
   border: 2px solid var(--color-border);
   border-radius: var(--radius);
   width: 100%;
+  font-size: var(--font-size-base);
   padding-left: calc(var(--space-md) * 2 + 1.125rem);
+}
+
+.header-search__input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+.header-search__input::-ms-clear {
+  display: none;
+}
+
+.header-search__clear-inline {
+  position: absolute;
+  right: var(--space-md);
+  top: 50%;
+  transform: translateY(-50%);
+  width: var(--min-touch);
+  height: var(--min-touch);
+  padding: 0;
+  border: 2px solid transparent;
+  border-radius: calc(var(--radius) - 2px);
+  background: transparent;
+  color: var(--color-text);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
+.header-search__clear-inline:hover {
+  background: var(--color-surface-hover);
+}
+
+.header-search__clear-inline:focus-visible {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.25);
 }
 
 .header-search__clear {
@@ -761,6 +800,9 @@ body {
 @media (max-width: 40rem) {
   .layout__header,
   .layout__main,
+  .book-page__header {
+    margin-bottom: var(--space-md);
+  }
   .layout__footer {
     padding: var(--space-md);
   }

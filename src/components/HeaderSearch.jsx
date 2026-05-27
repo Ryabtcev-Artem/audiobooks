@@ -87,17 +87,20 @@ export default function HeaderSearch() {
             onChange={(e) => setValue(e.target.value)}
             aria-label={label}
           />
+          {value ? (
+            <button
+              type="button"
+              className="header-search__clear-inline"
+              onClick={() => {
+                setValue('');
+                inputRef.current?.focus();
+              }}
+              aria-label="Очистить поиск"
+            >
+              <span aria-hidden="true">×</span>
+            </button>
+          ) : null}
         </div>
-        {value ? (
-          <button
-            type="button"
-            className="header-search__clear"
-            onClick={() => setValue('')}
-            aria-label="Очистить поиск"
-          >
-            Очистить
-          </button>
-        ) : null}
       </form>
     </div>
   );

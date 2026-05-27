@@ -438,11 +438,7 @@ export default function AudioPlayer({ bookId, title, tracks }) {
       {/* Список глав */}
       {hasTracks}
 
-      {/* Подсказка */}
-      <p id="player-keyboard-hint" className="audio-player__hint">
-        Управление с клавиатуры: Пробел — воспроизведение или пауза, стрелка
-        влево — назад на {SKIP_SECONDS} секунд, стрелка вправо — вперёд на {SKIP_SECONDS} секунд.
-      </p>
+
     </section>
   );
 }
