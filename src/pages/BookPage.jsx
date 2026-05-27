@@ -12,6 +12,7 @@ export default function BookPage() {
   const book = books.find((b) => b.id === id);
   const [views, setViews] = useState(0);
   const authors = Array.isArray(book?.authors) && book.authors.length > 0 ? book.authors : [book?.author].filter(Boolean);
+  const narrators = Array.isArray(book?.narrators) ? book.narrators.filter(Boolean) : [];
 
   if (!book) {
     return (
@@ -75,36 +76,39 @@ export default function BookPage() {
             {authors.length > 0
               ? authors
                   .map((a, index) => (
-                    <Link
-                      key={`${a}-${index}`}
-                      className="book-page__author-link"
-                      to={`/authors/${encodeURIComponent(a)}`}
-                    >
-                      {a}
-                    </Link>
+                    <span key={`${a}-${index}`}>
+                      {index > 0 ? <span aria-hidden="true">, </span> : null}
+                      <Link
+                        className="book-page__author-link"
+                        to={`/authors/${encodeURIComponent(a)}`}
+                        aria-label={`Открыть страницу автора: ${a}`}
+                      >
+                        {a}
+                      </Link>
+                    </span>
                   ))
-                  .reduce((prev, curr, index) => [prev, index > 0 && ', ', curr])
               : '—'}
           </p>
           <p className="book-page__meta">
             <span>Жанр: {book.genre}</span>
           </p>
-<p className="book-page__narrators">
-  Чтец(ы): 
-   {book.narrators.map((narrator, index) => (
-    <Link
-      key={index}
-      to={`/narrators/${encodeURIComponent(narrator)}`}
-      className="book-page__narrator-link"
-    >
-      {narrator}
-    </Link>
-  )).reduce((prev, curr, index) => [
-    prev, 
-    index > 0 && ', ', 
-    curr
-  ])}
-</p>
+          <p className="book-page__narrators">
+            Чтец{narrators.length > 1 ? 'ы' : ''}:{' '}
+            {narrators.length > 0
+              ? narrators.map((narrator, index) => (
+                  <span key={`${narrator}-${index}`}>
+                    {index > 0 ? <span aria-hidden="true">, </span> : null}
+                    <Link
+                      to={`/narrators/${encodeURIComponent(narrator)}`}
+                      className="book-page__narrator-link"
+                      aria-label={`Открыть страницу чтеца: ${narrator}`}
+                    >
+                      {narrator}
+                    </Link>
+                  </span>
+                ))
+              : '—'}
+          </p>
           <p className="book-page__views" aria-label={`Просмотры: ${views}`}>
             <img className="book-page__views-icon" src={eyeIcon} alt="" aria-hidden="true" />
             <span className="book-page__views-count">{views}</span>

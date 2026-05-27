@@ -64,6 +64,7 @@ export default function Layout() {
                 className={({ isActive }) =>
                   `layout__nav-link${isActive ? ' layout__nav-link--active' : ''}`
                 }
+                aria-label={`Каталог аудиокниг, всего ${books.length}`}
               >
                 Каталог
               </NavLink>
@@ -76,7 +77,7 @@ export default function Layout() {
                 }
                 aria-label={`Жанры, всего ${genreCount}`}
               >
-                Жанры{' '}
+                <span>Жанры</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">
                   ({genreCount})
                 </span>
@@ -90,7 +91,7 @@ export default function Layout() {
                 }
                 aria-label={`Авторы, всего ${authorCount}`}
               >
-                Авторы{' '}
+                <span>Авторы</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">
                   ({authorCount})
                 </span>
@@ -104,7 +105,7 @@ export default function Layout() {
                 }
                 aria-label={`Исполнители, всего ${narratorCount}`}
               >
-                Исполнители{' '}
+                <span>Исполнители</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">
                   ({narratorCount})
                 </span>

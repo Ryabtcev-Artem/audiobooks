@@ -321,9 +321,8 @@ export default function AudioPlayer({ bookId, title, tracks }) {
   return (
     <section
       className="audio-player"
-      role="application"
+      role="region"
       aria-label={`Аудиоплеер: ${title}`}
-      tabIndex={0}
     >
       <h2 className="audio-player__title">Плеер: {title}</h2>
 
@@ -345,7 +344,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
       const selectedIndex = parseInt(e.target.value, 10);
       jumpToTrack(selectedIndex);
     }}
-    aria-label="Выбор главы"
   >
     {tracks.map((track) => (
       <option 

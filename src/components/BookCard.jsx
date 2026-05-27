@@ -35,15 +35,17 @@ export default function BookCard({ book, index, className = '', style }) {
                 {authors.length > 0
                   ? authors
                       .map((a, i) => (
-                        <Link
-                          key={`${a}-${i}`}
-                          to={`/authors/${encodeURIComponent(a)}`}
-                          className="book-card__meta-link"
-                        >
-                          {a}
-                        </Link>
+                        <span key={`${a}-${i}`}>
+                          {i > 0 ? <span aria-hidden="true">, </span> : null}
+                          <Link
+                            to={`/authors/${encodeURIComponent(a)}`}
+                            className="book-card__meta-link"
+                            aria-label={`Открыть страницу автора: ${a}`}
+                          >
+                            {a}
+                          </Link>
+                        </span>
                       ))
-                      .reduce((prev, curr, i) => [prev, i > 0 && ', ', curr])
                   : '—'}
 
               </p>
