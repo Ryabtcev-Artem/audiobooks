@@ -16,12 +16,8 @@ export default function Layout() {
 
       <header className="layout__header" role="banner">
         <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/" aria-label="Голосовая библиотека — на главную">
-          <h1 className="layout__title">Голосовая библиотека</h1>
+          <h1 className="layout__title">Голоса книг</h1>
         </Link>
-        <p className="layout__subtitle">
-          Аудиокниги с полной поддержкой экранных дикторов и клавиатуры
-        </p>
-
         <nav className="layout__nav" aria-label="Основная навигация">
           <ul className="layout__nav-list" role="list">
             <li>

@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom';
+import penIcon from '../assets/pen.svg';
+import clockIcon from '../assets/clock.svg';
 
 export default function BookCard({ book, index, className = '', style }) {
   const authors = Array.isArray(book?.authors) && book.authors.length > 0 ? book.authors : [book?.author].filter(Boolean);
@@ -27,7 +29,7 @@ export default function BookCard({ book, index, className = '', style }) {
               <div className="book-card__author-wrap">
               <img
                 className='book-card__pen'
-                width="16" height="16" src="../../../src/assets/pen.svg" alt="" aria-hidden="true" />
+                width="16" height="16" src={penIcon} alt="" aria-hidden="true" />
               
               <p className="book-card__author">
                 {authors.length > 0
@@ -50,7 +52,7 @@ export default function BookCard({ book, index, className = '', style }) {
 
                               <img
                 className='book-card__clock'
-                width="16" height="16" src="../../../src/assets/clock.svg" alt="" aria-hidden="true" />
+                width="16" height="16" src={clockIcon} alt="" aria-hidden="true" />
                 <p className="book-card__time">
                   {book.durationFormatted}
                 </p>

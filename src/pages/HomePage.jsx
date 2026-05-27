@@ -50,7 +50,6 @@ export default function HomePage() {
 
   return (
     <>
-      <h2 className="page-title">Каталог аудиокниг</h2>
       <BookFilters
         minRating={minRating}
         durationBucket={durationBucket}

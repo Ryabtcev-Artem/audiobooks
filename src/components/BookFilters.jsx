@@ -15,7 +15,7 @@ export default function BookFilters({
 
   return (
     <section className="filters" aria-labelledby="filters-heading">
-      <h2 id="filters-heading" className="filters__title">
+      <h2 id="filters-heading" className="filters__title visually-hidden">
         Фильтры каталога
       </h2>
 
