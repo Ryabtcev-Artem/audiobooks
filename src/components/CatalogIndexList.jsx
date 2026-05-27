@@ -9,12 +9,12 @@ export default function CatalogIndexList({ items, basePath, ariaLabel }) {
           <Link
             to={`${basePath}/${encodeURIComponent(name)}`}
             className="catalog-index__link"
-            aria-label={`${name}, ${bookCountText(count)}`}
           >
             <span className="catalog-index__name">{name}</span>
             <span className="catalog-index__count" aria-hidden="true">
               {bookCountText(count)}
             </span>
+            <span className="visually-hidden">, {bookCountText(count)}</span>
           </Link>
         </li>
       ))}

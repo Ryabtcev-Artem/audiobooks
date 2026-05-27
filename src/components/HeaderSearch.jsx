@@ -68,7 +68,7 @@ export default function HeaderSearch() {
   };
 
   return (
-    <div className="header-search" role="search" aria-label="Поиск">
+    <div className="header-search" role="search">
       <form className="header-search__form" onSubmit={onSubmit}>
         <label className="visually-hidden" htmlFor="header-search-input">
           {label}
@@ -85,7 +85,6 @@ export default function HeaderSearch() {
             value={value}
             placeholder={placeholder}
             onChange={(e) => setValue(e.target.value)}
-            aria-label={label}
           />
           {value ? (
             <button

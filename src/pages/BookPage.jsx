@@ -81,7 +81,6 @@ export default function BookPage() {
                       <Link
                         className="book-page__author-link"
                         to={`/authors/${encodeURIComponent(a)}`}
-                        aria-label={`Открыть страницу автора: ${a}`}
                       >
                         {a}
                       </Link>
@@ -101,7 +100,6 @@ export default function BookPage() {
                     <Link
                       to={`/narrators/${encodeURIComponent(narrator)}`}
                       className="book-page__narrator-link"
-                      aria-label={`Открыть страницу чтеца: ${narrator}`}
                     >
                       {narrator}
                     </Link>
@@ -109,7 +107,7 @@ export default function BookPage() {
                 ))
               : '—'}
           </p>
-          <p className="book-page__views" aria-label={`Просмотры: ${views}`}>
+          <p className="book-page__views">
             <img className="book-page__views-icon" src={eyeIcon} alt="" aria-hidden="true" />
             <span className="book-page__views-count">{views}</span>
           </p>

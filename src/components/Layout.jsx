@@ -47,12 +47,8 @@ export default function Layout() {
   return (
     <CatalogFiltersProvider>
       <div className="layout">
-      <a href="#main-content" className="skip-link">
-        Перейти к основному содержимому
-      </a>
-
       <header className="layout__header" role="banner">
-        <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/" aria-label="Голоса книг — на главную">
+        <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/">
           <h1 className="layout__title">Голоса книг</h1>
         </Link>
         <nav className="layout__nav" aria-label="Основная навигация">
@@ -75,7 +71,6 @@ export default function Layout() {
                 className={({ isActive }) =>
                   `layout__nav-link${isActive ? ' layout__nav-link--active' : ''}`
                 }
-                aria-label={`Жанры, всего ${genreCount}`}
               >
                 <span>Жанры</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">
@@ -89,7 +84,6 @@ export default function Layout() {
                 className={({ isActive }) =>
                   `layout__nav-link${isActive ? ' layout__nav-link--active' : ''}`
                 }
-                aria-label={`Авторы, всего ${authorCount}`}
               >
                 <span>Авторы</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">
@@ -103,7 +97,6 @@ export default function Layout() {
                 className={({ isActive }) =>
                   `layout__nav-link${isActive ? ' layout__nav-link--active' : ''}`
                 }
-                aria-label={`Исполнители, всего ${narratorCount}`}
               >
                 <span>Исполнители</span>{' '}
                 <span className="layout__nav-count" aria-hidden="true">

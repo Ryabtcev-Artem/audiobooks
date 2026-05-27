@@ -43,7 +43,12 @@ export default function BookList({ books }) {
       <h2 id="catalog-heading" className="visually-hidden">
         Список аудиокниг
       </h2>
-      <p className="visually-hidden" role="status" aria-live="polite" aria-atomic="true">
+      <p
+        className="visually-hidden"
+        role="status"
+        aria-live="polite"
+        aria-atomic="true"
+      >
         Показано {visibleBooks.length} из {books.length}
       </p>
       <ul id="book-list" className="book-list" role="list">

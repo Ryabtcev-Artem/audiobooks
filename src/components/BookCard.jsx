@@ -40,7 +40,6 @@ export default function BookCard({ book, index, className = '', style }) {
                           <Link
                             to={`/authors/${encodeURIComponent(a)}`}
                             className="book-card__meta-link"
-                            aria-label={`Открыть страницу автора: ${a}`}
                           >
                             {a}
                           </Link>

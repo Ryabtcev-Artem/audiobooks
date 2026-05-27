@@ -322,7 +322,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
     <section
       className="audio-player"
       role="region"
-      aria-label={`Аудиоплеер: ${title}`}
     >
       <h2 className="audio-player__title">Плеер: {title}</h2>
 
@@ -362,7 +361,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
         role="timer"
         aria-live="polite"
         aria-atomic="true"
-        aria-label={`Текущее время ${formatLongTime(globalTime)} из ${formatLongTime(globalDuration)}`}
       >
         <span aria-hidden="true">
           {formatLongTime(globalTime)} / {formatLongTime(globalDuration)}
@@ -383,12 +381,11 @@ export default function AudioPlayer({ bookId, title, tracks }) {
       </audio>
 
       {/* Кнопки управления */}
-      <div className="audio-player__controls" role="group" aria-label="Управление воспроизведением">
+      <div className="audio-player__controls">
         <button
           type="button"
           className="audio-player__btn"
           onClick={() => skip(-SKIP_SECONDS)}
-          aria-label={`Перемотать назад на ${SKIP_SECONDS} секунд`}
         >
           −{SKIP_SECONDS} сек
         </button>
@@ -397,7 +394,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
           type="button"
           className="audio-player__btn audio-player__btn--primary"
           onClick={togglePlay}
-          aria-label={isLoading ? 'Загрузка' : (isPlaying ? 'Пауза' : 'Воспроизведение')}
           aria-pressed={isPlaying}
         >
           {isLoading ? 'Загрузка…' : (isPlaying ? 'Пауза' : 'Играть')}
@@ -407,7 +403,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
           type="button"
           className="audio-player__btn"
           onClick={() => skip(SKIP_SECONDS)}
-          aria-label={`Перемотать вперёд на ${SKIP_SECONDS} секунд`}
         >
           +{SKIP_SECONDS} сек
         </button>
@@ -430,7 +425,6 @@ export default function AudioPlayer({ bookId, title, tracks }) {
         aria-valuemax={globalDuration || 0}
         aria-valuenow={globalTime}
         aria-valuetext={`${formatLongTime(globalTime)} из ${formatLongTime(globalDuration)}`}
-        aria-label="Позиция воспроизведения"
       />
 
       {/* Список глав */}
