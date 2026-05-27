@@ -52,7 +52,7 @@ export default function Layout() {
       </a>
 
       <header className="layout__header" role="banner">
-        <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/" aria-label="Голосовая библиотека — на главную">
+        <Link style={{ textDecoration: 'none', color: 'inherit' }} to="/" aria-label="Голоса книг — на главную">
           <h1 className="layout__title">Голоса книг</h1>
         </Link>
         <nav className="layout__nav" aria-label="Основная навигация">
@@ -123,7 +123,7 @@ export default function Layout() {
 
       <footer className="layout__footer" role="contentinfo">
         <p>
-          © {new Date().getFullYear()} Голосовая библиотека. Сайт создан для
+          © {new Date().getFullYear()} Голоса книг. Сайт создан для
           незрячих и слабовидящих пользователей.
         </p>
       </footer>
