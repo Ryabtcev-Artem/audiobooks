@@ -1,0 +1,6918 @@
+[
+  {
+  "id": "1",
+  "title": "Война и мир",
+  "author": "Лев Толстой",
+  "genre": "Классика",
+  "narrators": [
+    "Александр Клюквин"
+  ],
+  "description": "«Война и мир» — это великий роман-эпопея Льва Толстого, описывающий жизнь русского общества в эпоху войн против Наполеона с 1805 по 1812 год, с эпилогом до 1820 года. В произведении переплетаются масштабные исторические события и глубокие личные драмы главных героев.",
+  "cover": "https://s5.knigavuhe.org/1/covers/5301/2-4.jpg?v=2",
+  "durationSeconds": 229404.8,
+  "durationHours": 69.4,
+  "durationFormatted": "69:24:32",
+  "tracks": [
+    {
+      "index": 1,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/00-00-00-voina-i-mir.mp3?1",
+      "duration_seconds": 46.4,
+      "duration_formatted": "0:00:46",
+      "startTime": 0,
+      "endTime": 46.4,
+      "metadata": {
+        "type": "intro"
+      }
+    },
+    {
+      "index": 2,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-01-voina-i-mir.mp3?1",
+      "duration_seconds": 2009.8,
+      "duration_formatted": "0:33:29",
+      "startTime": 46.4,
+      "endTime": 2056.2,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 3,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-02-voina-i-mir.mp3?1",
+      "duration_seconds": 846.4,
+      "duration_formatted": "0:14:06",
+      "startTime": 2056.2,
+      "endTime": 2902.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 4,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1037.0,
+      "duration_formatted": "0:17:17",
+      "startTime": 2902.7,
+      "endTime": 3939.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 5,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-04-voina-i-mir.mp3?1",
+      "duration_seconds": 2079.6,
+      "duration_formatted": "0:34:39",
+      "startTime": 3939.7,
+      "endTime": 6019.3,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 6,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-05-voina-i-mir.mp3?1",
+      "duration_seconds": 778.3,
+      "duration_formatted": "0:12:58",
+      "startTime": 6019.3,
+      "endTime": 6797.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 7,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-06-voina-i-mir.mp3?1",
+      "duration_seconds": 1963.0,
+      "duration_formatted": "0:32:43",
+      "startTime": 6797.7,
+      "endTime": 8760.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 8,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-07-voina-i-mir.mp3?1",
+      "duration_seconds": 789.1,
+      "duration_formatted": "0:13:09",
+      "startTime": 8760.7,
+      "endTime": 9549.8,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 9,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-08-voina-i-mir.mp3?1",
+      "duration_seconds": 367.9,
+      "duration_formatted": "0:06:07",
+      "startTime": 9549.8,
+      "endTime": 9917.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 10,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-09-voina-i-mir.mp3?1",
+      "duration_seconds": 703.1,
+      "duration_formatted": "0:11:43",
+      "startTime": 9917.7,
+      "endTime": 10620.9,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 11,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-10-voina-i-mir.mp3?1",
+      "duration_seconds": 321.1,
+      "duration_formatted": "0:05:21",
+      "startTime": 10620.9,
+      "endTime": 10942.0,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 12,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-11-voina-i-mir.mp3?1",
+      "duration_seconds": 847.7,
+      "duration_formatted": "0:14:07",
+      "startTime": 10942.0,
+      "endTime": 11789.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 13,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-12-voina-i-mir.mp3?1",
+      "duration_seconds": 783.8,
+      "duration_formatted": "0:13:03",
+      "startTime": 11789.7,
+      "endTime": 12573.5,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 14,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-13-voina-i-mir.mp3?1",
+      "duration_seconds": 965.8,
+      "duration_formatted": "0:16:05",
+      "startTime": 12573.5,
+      "endTime": 13539.3,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 15,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-14-voina-i-mir.mp3?1",
+      "duration_seconds": 315.1,
+      "duration_formatted": "0:05:15",
+      "startTime": 13539.3,
+      "endTime": 13854.3,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 16,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-15-voina-i-mir.mp3?1",
+      "duration_seconds": 1122.2,
+      "duration_formatted": "0:18:42",
+      "startTime": 13854.3,
+      "endTime": 14976.6,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 17,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-16-voina-i-mir.mp3?1",
+      "duration_seconds": 635.4,
+      "duration_formatted": "0:10:35",
+      "startTime": 14976.6,
+      "endTime": 15611.9,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 18,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-17-voina-i-mir.mp3?1",
+      "duration_seconds": 940.5,
+      "duration_formatted": "0:15:40",
+      "startTime": 15611.9,
+      "endTime": 16552.5,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 19,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-18-voina-i-mir.mp3?1",
+      "duration_seconds": 1204.6,
+      "duration_formatted": "0:20:04",
+      "startTime": 16552.5,
+      "endTime": 17757.1,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 20,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-19-voina-i-mir.mp3?1",
+      "duration_seconds": 854.9,
+      "duration_formatted": "0:14:14",
+      "startTime": 17757.1,
+      "endTime": 18612.0,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 21,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-20-voina-i-mir.mp3?1",
+      "duration_seconds": 807.4,
+      "duration_formatted": "0:13:27",
+      "startTime": 18612.0,
+      "endTime": 19419.3,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 22,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-21-voina-i-mir.mp3?1",
+      "duration_seconds": 793.8,
+      "duration_formatted": "0:13:13",
+      "startTime": 19419.3,
+      "endTime": 20213.1,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 23,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-22-voina-i-mir.mp3?1",
+      "duration_seconds": 1781.7,
+      "duration_formatted": "0:29:41",
+      "startTime": 20213.1,
+      "endTime": 21994.8,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 22
+      }
+    },
+    {
+      "index": 24,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-23-voina-i-mir.mp3?1",
+      "duration_seconds": 1031.5,
+      "duration_formatted": "0:17:11",
+      "startTime": 21994.8,
+      "endTime": 23026.4,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 23
+      }
+    },
+    {
+      "index": 25,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-24-voina-i-mir.mp3?1",
+      "duration_seconds": 1017.6,
+      "duration_formatted": "0:16:57",
+      "startTime": 23026.4,
+      "endTime": 24044.0,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 24
+      }
+    },
+    {
+      "index": 26,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-01-25-voina-i-mir.mp3?1",
+      "duration_seconds": 1511.7,
+      "duration_formatted": "0:25:11",
+      "startTime": 24044.0,
+      "endTime": 25555.7,
+      "metadata": {
+        "volume": 1,
+        "part": 1,
+        "chapter": 25
+      }
+    },
+    {
+      "index": 27,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-01-voina-i-mir.mp3?1",
+      "duration_seconds": 739.6,
+      "duration_formatted": "0:12:19",
+      "startTime": 25555.7,
+      "endTime": 26295.2,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 28,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-02-voina-i-mir.mp3?1",
+      "duration_seconds": 1242.9,
+      "duration_formatted": "0:20:42",
+      "startTime": 26295.2,
+      "endTime": 27538.1,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 29,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1121.1,
+      "duration_formatted": "0:18:41",
+      "startTime": 27538.1,
+      "endTime": 28659.2,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 30,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-04-voina-i-mir.mp3?1",
+      "duration_seconds": 1299.7,
+      "duration_formatted": "0:21:39",
+      "startTime": 28659.2,
+      "endTime": 29958.9,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 31,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-05-voina-i-mir.mp3?1",
+      "duration_seconds": 454.5,
+      "duration_formatted": "0:07:34",
+      "startTime": 29958.9,
+      "endTime": 30413.4,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 32,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-06-voina-i-mir.mp3?1",
+      "duration_seconds": 386.2,
+      "duration_formatted": "0:06:26",
+      "startTime": 30413.4,
+      "endTime": 30799.6,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 33,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-07-voina-i-mir.mp3?1",
+      "duration_seconds": 748.4,
+      "duration_formatted": "0:12:28",
+      "startTime": 30799.6,
+      "endTime": 31548.0,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 34,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-08-voina-i-mir.mp3?1",
+      "duration_seconds": 1353.1,
+      "duration_formatted": "0:22:33",
+      "startTime": 31548.0,
+      "endTime": 32901.1,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 35,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-09-voina-i-mir.mp3?1",
+      "duration_seconds": 846.5,
+      "duration_formatted": "0:14:06",
+      "startTime": 32901.1,
+      "endTime": 33747.6,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 36,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-10-voina-i-mir.mp3?1",
+      "duration_seconds": 1269.3,
+      "duration_formatted": "0:21:09",
+      "startTime": 33747.6,
+      "endTime": 35016.9,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 37,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-11-voina-i-mir.mp3?1",
+      "duration_seconds": 501.6,
+      "duration_formatted": "0:08:21",
+      "startTime": 35016.9,
+      "endTime": 35518.5,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 38,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-12-voina-i-mir.mp3?1",
+      "duration_seconds": 943.7,
+      "duration_formatted": "0:15:43",
+      "startTime": 35518.5,
+      "endTime": 36462.2,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 39,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-13-voina-i-mir.mp3?1",
+      "duration_seconds": 915.9,
+      "duration_formatted": "0:15:15",
+      "startTime": 36462.2,
+      "endTime": 37378.1,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 40,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-14-voina-i-mir.mp3?1",
+      "duration_seconds": 541.9,
+      "duration_formatted": "0:09:01",
+      "startTime": 37378.1,
+      "endTime": 37920.0,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 41,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-15-voina-i-mir.mp3?1",
+      "duration_seconds": 885.4,
+      "duration_formatted": "0:14:45",
+      "startTime": 37920.0,
+      "endTime": 38805.4,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 42,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-16-voina-i-mir.mp3?1",
+      "duration_seconds": 466.9,
+      "duration_formatted": "0:07:46",
+      "startTime": 38805.4,
+      "endTime": 39272.3,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 43,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-17-voina-i-mir.mp3?1",
+      "duration_seconds": 801.7,
+      "duration_formatted": "0:13:21",
+      "startTime": 39272.3,
+      "endTime": 40074.0,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 44,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-18-voina-i-mir.mp3?1",
+      "duration_seconds": 816.8,
+      "duration_formatted": "0:13:36",
+      "startTime": 40074.0,
+      "endTime": 40890.7,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 45,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-19-voina-i-mir.mp3?1",
+      "duration_seconds": 826.4,
+      "duration_formatted": "0:13:46",
+      "startTime": 40890.7,
+      "endTime": 41717.1,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 46,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-20-voina-i-mir.mp3?1",
+      "duration_seconds": 918.2,
+      "duration_formatted": "0:15:18",
+      "startTime": 41717.1,
+      "endTime": 42635.4,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 47,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-02-21-voina-i-mir.mp3?1",
+      "duration_seconds": 1203.5,
+      "duration_formatted": "0:20:03",
+      "startTime": 42635.4,
+      "endTime": 43838.9,
+      "metadata": {
+        "volume": 1,
+        "part": 2,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 48,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-01-voina-i-mir.mp3?1",
+      "duration_seconds": 1564.2,
+      "duration_formatted": "0:26:04",
+      "startTime": 43838.9,
+      "endTime": 45403.1,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 49,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-02-voina-i-mir.mp3?1",
+      "duration_seconds": 1552.5,
+      "duration_formatted": "0:25:52",
+      "startTime": 45403.1,
+      "endTime": 46955.5,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 50,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1479.8,
+      "duration_formatted": "0:24:39",
+      "startTime": 46955.5,
+      "endTime": 48435.3,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 51,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-04-voina-i-mir.mp3?1",
+      "duration_seconds": 1317.7,
+      "duration_formatted": "0:21:57",
+      "startTime": 48435.3,
+      "endTime": 49753.0,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 52,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-05-voina-i-mir.mp3?1",
+      "duration_seconds": 1027.4,
+      "duration_formatted": "0:17:07",
+      "startTime": 49753.0,
+      "endTime": 50780.4,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 53,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-06-voina-i-mir.mp3?1",
+      "duration_seconds": 962.5,
+      "duration_formatted": "0:16:02",
+      "startTime": 50780.4,
+      "endTime": 51742.9,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 54,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-07-voina-i-mir.mp3?1",
+      "duration_seconds": 1350.2,
+      "duration_formatted": "0:22:30",
+      "startTime": 51742.9,
+      "endTime": 53093.1,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 55,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-08-voina-i-mir.mp3?1",
+      "duration_seconds": 811.0,
+      "duration_formatted": "0:13:31",
+      "startTime": 53093.1,
+      "endTime": 53904.1,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 56,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-09-voina-i-mir.mp3?1",
+      "duration_seconds": 1225.8,
+      "duration_formatted": "0:20:25",
+      "startTime": 53904.1,
+      "endTime": 55129.9,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 57,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-10-voina-i-mir.mp3?1",
+      "duration_seconds": 828.7,
+      "duration_formatted": "0:13:48",
+      "startTime": 55129.9,
+      "endTime": 55958.6,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 58,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-11-voina-i-mir.mp3?1",
+      "duration_seconds": 979.6,
+      "duration_formatted": "0:16:19",
+      "startTime": 55958.6,
+      "endTime": 56938.3,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 59,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-12-voina-i-mir.mp3?1",
+      "duration_seconds": 1064.2,
+      "duration_formatted": "0:17:44",
+      "startTime": 56938.3,
+      "endTime": 58002.5,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 60,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-13-voina-i-mir.mp3?1",
+      "duration_seconds": 967.1,
+      "duration_formatted": "0:16:07",
+      "startTime": 58002.5,
+      "endTime": 58969.6,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 61,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-14-voina-i-mir.mp3?1",
+      "duration_seconds": 850.8,
+      "duration_formatted": "0:14:10",
+      "startTime": 58969.6,
+      "endTime": 59820.4,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 62,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-15-voina-i-mir.mp3?1",
+      "duration_seconds": 1016.0,
+      "duration_formatted": "0:16:56",
+      "startTime": 59820.4,
+      "endTime": 60836.4,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 63,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-16-voina-i-mir.mp3?1",
+      "duration_seconds": 610.7,
+      "duration_formatted": "0:10:10",
+      "startTime": 60836.4,
+      "endTime": 61447.1,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 64,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-17-voina-i-mir.mp3?1",
+      "duration_seconds": 794.3,
+      "duration_formatted": "0:13:14",
+      "startTime": 61447.1,
+      "endTime": 62241.4,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 65,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-18-voina-i-mir.mp3?1",
+      "duration_seconds": 1106.8,
+      "duration_formatted": "0:18:26",
+      "startTime": 62241.4,
+      "endTime": 63348.2,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 66,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/01-03-19-voina-i-mir.mp3?1",
+      "duration_seconds": 893.3,
+      "duration_formatted": "0:14:53",
+      "startTime": 63348.2,
+      "endTime": 64241.5,
+      "metadata": {
+        "volume": 1,
+        "part": 3,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 67,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-01-voina-i-mir.mp3?1",
+      "duration_seconds": 1359.5,
+      "duration_formatted": "0:22:39",
+      "startTime": 64241.5,
+      "endTime": 65601.0,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 68,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-02-voina-i-mir.mp3?1",
+      "duration_seconds": 1620.2,
+      "duration_formatted": "0:27:00",
+      "startTime": 65601.0,
+      "endTime": 67221.2,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 69,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1211.2,
+      "duration_formatted": "0:20:11",
+      "startTime": 67221.2,
+      "endTime": 68432.4,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 70,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-04-voina-i-mir.mp3?1",
+      "duration_seconds": 880.6,
+      "duration_formatted": "0:14:40",
+      "startTime": 68432.4,
+      "endTime": 69313.0,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 71,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-05-voina-i-mir.mp3?1",
+      "duration_seconds": 408.5,
+      "duration_formatted": "0:06:48",
+      "startTime": 69313.0,
+      "endTime": 69721.5,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 72,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-06-voina-i-mir.mp3?1",
+      "duration_seconds": 1043.4,
+      "duration_formatted": "0:17:23",
+      "startTime": 69721.5,
+      "endTime": 70764.9,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 73,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-07-voina-i-mir.mp3?1",
+      "duration_seconds": 666.1,
+      "duration_formatted": "0:11:06",
+      "startTime": 70764.9,
+      "endTime": 71430.9,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 74,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-08-voina-i-mir.mp3?1",
+      "duration_seconds": 819.4,
+      "duration_formatted": "0:13:39",
+      "startTime": 71430.9,
+      "endTime": 72250.3,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 75,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-09-voina-i-mir.mp3?1",
+      "duration_seconds": 490.6,
+      "duration_formatted": "0:08:10",
+      "startTime": 72250.3,
+      "endTime": 72741.0,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 76,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-10-voina-i-mir.mp3?1",
+      "duration_seconds": 685.5,
+      "duration_formatted": "0:11:25",
+      "startTime": 72741.0,
+      "endTime": 73426.5,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 77,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-11-voina-i-mir.mp3?1",
+      "duration_seconds": 421.8,
+      "duration_formatted": "0:07:01",
+      "startTime": 73426.5,
+      "endTime": 73848.3,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 78,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-12-voina-i-mir.mp3?1",
+      "duration_seconds": 556.4,
+      "duration_formatted": "0:09:16",
+      "startTime": 73848.3,
+      "endTime": 74404.6,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 79,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-13-voina-i-mir.mp3?1",
+      "duration_seconds": 484.6,
+      "duration_formatted": "0:08:04",
+      "startTime": 74404.6,
+      "endTime": 74889.2,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 80,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-14-voina-i-mir.mp3?1",
+      "duration_seconds": 494.5,
+      "duration_formatted": "0:08:14",
+      "startTime": 74889.2,
+      "endTime": 75383.7,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 81,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-15-voina-i-mir.mp3?1",
+      "duration_seconds": 601.7,
+      "duration_formatted": "0:10:01",
+      "startTime": 75383.7,
+      "endTime": 75985.4,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 82,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-01-16-voina-i-mir.mp3?1",
+      "duration_seconds": 525.4,
+      "duration_formatted": "0:08:45",
+      "startTime": 75985.4,
+      "endTime": 76510.8,
+      "metadata": {
+        "volume": 2,
+        "part": 1,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 83,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-01-voina-i-mir.mp3?1",
+      "duration_seconds": 673.4,
+      "duration_formatted": "0:11:13",
+      "startTime": 76510.8,
+      "endTime": 77184.3,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 84,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-02-voina-i-mir.mp3?1",
+      "duration_seconds": 1349.6,
+      "duration_formatted": "0:22:29",
+      "startTime": 77184.3,
+      "endTime": 78533.8,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 85,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1350.9,
+      "duration_formatted": "0:22:30",
+      "startTime": 78533.8,
+      "endTime": 79884.8,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 86,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-04-voina-i-mir.mp3?1",
+      "duration_seconds": 681.9,
+      "duration_formatted": "0:11:21",
+      "startTime": 79884.8,
+      "endTime": 80566.6,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 87,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-05-voina-i-mir.mp3?1",
+      "duration_seconds": 391.1,
+      "duration_formatted": "0:06:31",
+      "startTime": 80566.6,
+      "endTime": 80957.7,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 88,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-06-voina-i-mir.mp3?1",
+      "duration_seconds": 1110.7,
+      "duration_formatted": "0:18:30",
+      "startTime": 80957.7,
+      "endTime": 82068.4,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 89,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-07-voina-i-mir.mp3?1",
+      "duration_seconds": 413.5,
+      "duration_formatted": "0:06:53",
+      "startTime": 82068.4,
+      "endTime": 82481.9,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 90,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-08-voina-i-mir.mp3?1",
+      "duration_seconds": 761.7,
+      "duration_formatted": "0:12:41",
+      "startTime": 82481.9,
+      "endTime": 83243.6,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 91,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-09-voina-i-mir.mp3?1",
+      "duration_seconds": 1008.0,
+      "duration_formatted": "0:16:47",
+      "startTime": 83243.6,
+      "endTime": 84251.6,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 92,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-10-voina-i-mir.mp3?1",
+      "duration_seconds": 764.9,
+      "duration_formatted": "0:12:44",
+      "startTime": 84251.6,
+      "endTime": 85016.5,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 93,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-11-voina-i-mir.mp3?1",
+      "duration_seconds": 1316.2,
+      "duration_formatted": "0:21:56",
+      "startTime": 85016.5,
+      "endTime": 86332.8,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 94,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-12-voina-i-mir.mp3?1",
+      "duration_seconds": 737.8,
+      "duration_formatted": "0:12:17",
+      "startTime": 86332.8,
+      "endTime": 87070.6,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 95,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-13-voina-i-mir.mp3?1",
+      "duration_seconds": 568.9,
+      "duration_formatted": "0:09:28",
+      "startTime": 87070.6,
+      "endTime": 87639.5,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 96,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-14-voina-i-mir.mp3?1",
+      "duration_seconds": 308.4,
+      "duration_formatted": "0:05:08",
+      "startTime": 87639.5,
+      "endTime": 87947.8,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 97,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-15-voina-i-mir.mp3?1",
+      "duration_seconds": 796.6,
+      "duration_formatted": "0:13:16",
+      "startTime": 87947.8,
+      "endTime": 88744.4,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 98,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-16-voina-i-mir.mp3?1",
+      "duration_seconds": 747.5,
+      "duration_formatted": "0:12:27",
+      "startTime": 88744.4,
+      "endTime": 89491.9,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 99,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-17-voina-i-mir.mp3?1",
+      "duration_seconds": 624.0,
+      "duration_formatted": "0:10:24",
+      "startTime": 89491.9,
+      "endTime": 90116.0,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 100,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-18-voina-i-mir.mp3?1",
+      "duration_seconds": 422.0,
+      "duration_formatted": "0:07:02",
+      "startTime": 90116.0,
+      "endTime": 90538.0,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 101,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-02-19-voina-i-mir.mp3?1",
+      "duration_seconds": 796.6,
+      "duration_formatted": "0:13:16",
+      "startTime": 90538.0,
+      "endTime": 91334.6,
+      "metadata": {
+        "volume": 2,
+        "part": 2,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 102,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-01-voina-i-mir.mp3?1",
+      "duration_seconds": 695.5,
+      "duration_formatted": "0:11:35",
+      "startTime": 91334.6,
+      "endTime": 92030.2,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 103,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-02-voina-i-mir.mp3?1",
+      "duration_seconds": 428.3,
+      "duration_formatted": "0:07:08",
+      "startTime": 92030.2,
+      "endTime": 92458.5,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 104,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-03-voina-i-mir.mp3?1",
+      "duration_seconds": 379.4,
+      "duration_formatted": "0:06:19",
+      "startTime": 92458.5,
+      "endTime": 92837.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 105,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-04-voina-i-mir.mp3?1",
+      "duration_seconds": 915.9,
+      "duration_formatted": "0:15:15",
+      "startTime": 92837.9,
+      "endTime": 93753.8,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 106,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-05-voina-i-mir.mp3?1",
+      "duration_seconds": 1227.3,
+      "duration_formatted": "0:20:27",
+      "startTime": 93753.8,
+      "endTime": 94981.1,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 107,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-06-voina-i-mir.mp3?1",
+      "duration_seconds": 706.8,
+      "duration_formatted": "0:11:46",
+      "startTime": 94981.1,
+      "endTime": 95687.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 108,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-07-voina-i-mir.mp3?1",
+      "duration_seconds": 887.3,
+      "duration_formatted": "0:14:47",
+      "startTime": 95687.9,
+      "endTime": 96575.1,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 109,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-08-voina-i-mir.mp3?1",
+      "duration_seconds": 590.2,
+      "duration_formatted": "0:09:50",
+      "startTime": 96575.1,
+      "endTime": 97165.3,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 110,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-09-voina-i-mir.mp3?1",
+      "duration_seconds": 520.7,
+      "duration_formatted": "0:08:40",
+      "startTime": 97165.3,
+      "endTime": 97686.0,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 111,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-10-voina-i-mir.mp3?1",
+      "duration_seconds": 955.8,
+      "duration_formatted": "0:15:55",
+      "startTime": 97686.0,
+      "endTime": 98641.8,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 112,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-11-voina-i-mir.mp3?1",
+      "duration_seconds": 672.8,
+      "duration_formatted": "0:11:12",
+      "startTime": 98641.8,
+      "endTime": 99314.6,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 113,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-12-voina-i-mir.mp3?1",
+      "duration_seconds": 400.1,
+      "duration_formatted": "0:06:40",
+      "startTime": 99314.6,
+      "endTime": 99714.6,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 114,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-13-voina-i-mir.mp3?1",
+      "duration_seconds": 625.3,
+      "duration_formatted": "0:10:25",
+      "startTime": 99714.6,
+      "endTime": 100339.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 115,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-14-voina-i-mir.mp3?1",
+      "duration_seconds": 553.9,
+      "duration_formatted": "0:09:13",
+      "startTime": 100339.9,
+      "endTime": 100893.8,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 116,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-15-voina-i-mir.mp3?1",
+      "duration_seconds": 524.4,
+      "duration_formatted": "0:08:44",
+      "startTime": 100893.8,
+      "endTime": 101418.2,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 117,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-16-voina-i-mir.mp3?1",
+      "duration_seconds": 586.5,
+      "duration_formatted": "0:09:46",
+      "startTime": 101418.2,
+      "endTime": 102004.7,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 118,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-17-voina-i-mir.mp3?1",
+      "duration_seconds": 360.5,
+      "duration_formatted": "0:06:00",
+      "startTime": 102004.7,
+      "endTime": 102365.2,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 119,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-18-voina-i-mir.mp3?1",
+      "duration_seconds": 903.1,
+      "duration_formatted": "0:15:03",
+      "startTime": 102365.2,
+      "endTime": 103268.3,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 120,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-19-voina-i-mir.mp3?1",
+      "duration_seconds": 339.9,
+      "duration_formatted": "0:05:39",
+      "startTime": 103268.3,
+      "endTime": 103608.2,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 121,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-20-voina-i-mir.mp3?1",
+      "duration_seconds": 521.7,
+      "duration_formatted": "0:08:41",
+      "startTime": 103608.2,
+      "endTime": 104129.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 122,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-21-voina-i-mir.mp3?1",
+      "duration_seconds": 529.1,
+      "duration_formatted": "0:08:49",
+      "startTime": 104129.9,
+      "endTime": 104659.0,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 123,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-22-voina-i-mir.mp3?1",
+      "duration_seconds": 615.4,
+      "duration_formatted": "0:10:15",
+      "startTime": 104659.0,
+      "endTime": 105274.4,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 22
+      }
+    },
+    {
+      "index": 124,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-23-voina-i-mir.mp3?1",
+      "duration_seconds": 985.5,
+      "duration_formatted": "0:16:25",
+      "startTime": 105274.4,
+      "endTime": 106259.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 23
+      }
+    },
+    {
+      "index": 125,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-24-voina-i-mir.mp3?1",
+      "duration_seconds": 490.0,
+      "duration_formatted": "0:08:10",
+      "startTime": 106259.9,
+      "endTime": 106749.9,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 24
+      }
+    },
+    {
+      "index": 126,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-25-voina-i-mir.mp3?1",
+      "duration_seconds": 643.7,
+      "duration_formatted": "0:10:43",
+      "startTime": 106749.9,
+      "endTime": 107393.6,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 25
+      }
+    },
+    {
+      "index": 127,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-03-26-voina-i-mir.mp3?1",
+      "duration_seconds": 571.0,
+      "duration_formatted": "0:09:31",
+      "startTime": 107393.6,
+      "endTime": 107964.7,
+      "metadata": {
+        "volume": 2,
+        "part": 3,
+        "chapter": 26
+      }
+    },
+    {
+      "index": 128,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-01-voina-i-mir.mp3?1",
+      "duration_seconds": 685.4,
+      "duration_formatted": "0:11:25",
+      "startTime": 107964.7,
+      "endTime": 108650.0,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 129,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-02-voina-i-mir.mp3?1",
+      "duration_seconds": 315.1,
+      "duration_formatted": "0:05:15",
+      "startTime": 108650.0,
+      "endTime": 108965.1,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 130,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-03-voina-i-mir.mp3?1",
+      "duration_seconds": 530.0,
+      "duration_formatted": "0:08:50",
+      "startTime": 108965.1,
+      "endTime": 109495.1,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 131,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-04-voina-i-mir.mp3?1",
+      "duration_seconds": 925.0,
+      "duration_formatted": "0:15:25",
+      "startTime": 109495.1,
+      "endTime": 110420.2,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 132,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-05-voina-i-mir.mp3?1",
+      "duration_seconds": 736.6,
+      "duration_formatted": "0:12:16",
+      "startTime": 110420.2,
+      "endTime": 111156.7,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 133,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-06-voina-i-mir.mp3?1",
+      "duration_seconds": 1061.8,
+      "duration_formatted": "0:17:41",
+      "startTime": 111156.7,
+      "endTime": 112218.5,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 134,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-07-voina-i-mir.mp3?1",
+      "duration_seconds": 1370.9,
+      "duration_formatted": "0:22:50",
+      "startTime": 112218.5,
+      "endTime": 113589.4,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 135,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-08-voina-i-mir.mp3?1",
+      "duration_seconds": 476.7,
+      "duration_formatted": "0:07:56",
+      "startTime": 113589.4,
+      "endTime": 114066.1,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 136,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-09-voina-i-mir.mp3?1",
+      "duration_seconds": 602.1,
+      "duration_formatted": "0:10:02",
+      "startTime": 114066.1,
+      "endTime": 114668.2,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 137,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-10-voina-i-mir.mp3?1",
+      "duration_seconds": 1315.1,
+      "duration_formatted": "0:21:55",
+      "startTime": 114668.2,
+      "endTime": 115983.3,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 138,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-11-voina-i-mir.mp3?1",
+      "duration_seconds": 649.0,
+      "duration_formatted": "0:10:48",
+      "startTime": 115983.3,
+      "endTime": 116632.3,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 139,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-12-voina-i-mir.mp3?1",
+      "duration_seconds": 504.1,
+      "duration_formatted": "0:08:24",
+      "startTime": 116632.3,
+      "endTime": 117136.4,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 140,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-04-13-voina-i-mir.mp3?1",
+      "duration_seconds": 506.1,
+      "duration_formatted": "0:08:26",
+      "startTime": 117136.4,
+      "endTime": 117642.5,
+      "metadata": {
+        "volume": 2,
+        "part": 4,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 141,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-01-voina-i-mir.mp3?1",
+      "duration_seconds": 1107.4,
+      "duration_formatted": "0:18:27",
+      "startTime": 117642.5,
+      "endTime": 118749.9,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 142,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-02-voina-i-mir.mp3?1",
+      "duration_seconds": 624.9,
+      "duration_formatted": "0:10:24",
+      "startTime": 118749.9,
+      "endTime": 119374.8,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 143,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-03-voina-i-mir.mp3?1",
+      "duration_seconds": 1032.5,
+      "duration_formatted": "0:17:12",
+      "startTime": 119374.8,
+      "endTime": 120407.3,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 144,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-04-voina-i-mir.mp3?1",
+      "duration_seconds": 440.0,
+      "duration_formatted": "0:07:20",
+      "startTime": 120407.3,
+      "endTime": 120847.4,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 145,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-05-voina-i-mir.mp3?1",
+      "duration_seconds": 912.3,
+      "duration_formatted": "0:15:12",
+      "startTime": 120847.4,
+      "endTime": 121759.6,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 146,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-06-voina-i-mir.mp3?1",
+      "duration_seconds": 539.9,
+      "duration_formatted": "0:08:59",
+      "startTime": 121759.6,
+      "endTime": 122299.6,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 147,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-07-voina-i-mir.mp3?1",
+      "duration_seconds": 580.2,
+      "duration_formatted": "0:09:40",
+      "startTime": 122299.6,
+      "endTime": 122879.8,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 148,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-08-voina-i-mir.mp3?1",
+      "duration_seconds": 731.9,
+      "duration_formatted": "0:12:11",
+      "startTime": 122879.8,
+      "endTime": 123611.7,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 149,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-09-voina-i-mir.mp3?1",
+      "duration_seconds": 900.7,
+      "duration_formatted": "0:15:00",
+      "startTime": 123611.7,
+      "endTime": 124512.4,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 150,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-10-voina-i-mir.mp3?1",
+      "duration_seconds": 558.1,
+      "duration_formatted": "0:09:18",
+      "startTime": 124512.4,
+      "endTime": 125070.5,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 151,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-11-voina-i-mir.mp3?1",
+      "duration_seconds": 383.6,
+      "duration_formatted": "0:06:23",
+      "startTime": 125070.5,
+      "endTime": 125454.1,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 152,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-12-voina-i-mir.mp3?1",
+      "duration_seconds": 523.9,
+      "duration_formatted": "0:08:43",
+      "startTime": 125454.1,
+      "endTime": 125978.0,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 153,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-13-voina-i-mir.mp3?1",
+      "duration_seconds": 587.8,
+      "duration_formatted": "0:09:47",
+      "startTime": 125978.0,
+      "endTime": 126565.9,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 154,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-14-voina-i-mir.mp3?1",
+      "duration_seconds": 483.1,
+      "duration_formatted": "0:08:03",
+      "startTime": 126565.9,
+      "endTime": 127049.0,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 155,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-15-voina-i-mir.mp3?1",
+      "duration_seconds": 805.9,
+      "duration_formatted": "0:13:25",
+      "startTime": 127049.0,
+      "endTime": 127854.9,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 156,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-16-voina-i-mir.mp3?1",
+      "duration_seconds": 709.3,
+      "duration_formatted": "0:11:49",
+      "startTime": 127854.9,
+      "endTime": 128564.3,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 157,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-17-voina-i-mir.mp3?1",
+      "duration_seconds": 364.9,
+      "duration_formatted": "0:06:04",
+      "startTime": 128564.3,
+      "endTime": 128929.2,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 158,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-18-voina-i-mir.mp3?1",
+      "duration_seconds": 488.9,
+      "duration_formatted": "0:08:08",
+      "startTime": 128929.2,
+      "endTime": 129418.1,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 159,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-19-voina-i-mir.mp3?1",
+      "duration_seconds": 586.9,
+      "duration_formatted": "0:09:46",
+      "startTime": 129418.1,
+      "endTime": 130005.1,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 160,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-20-voina-i-mir.mp3?1",
+      "duration_seconds": 497.8,
+      "duration_formatted": "0:08:17",
+      "startTime": 130005.1,
+      "endTime": 130502.9,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 161,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-21-voina-i-mir.mp3?1",
+      "duration_seconds": 811.4,
+      "duration_formatted": "0:13:31",
+      "startTime": 130502.9,
+      "endTime": 131314.3,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 162,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/02-05-22-voina-i-mir.mp3?1",
+      "duration_seconds": 558.5,
+      "duration_formatted": "0:09:18",
+      "startTime": 131314.3,
+      "endTime": 131872.8,
+      "metadata": {
+        "volume": 2,
+        "part": 5,
+        "chapter": 22
+      }
+    },
+    {
+      "index": 163,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-01-voina-i-mir.mp3?1",
+      "duration_seconds": 1120.7,
+      "duration_formatted": "0:18:40",
+      "startTime": 131872.8,
+      "endTime": 132993.5,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 164,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-02-voina-i-mir.mp3?1",
+      "duration_seconds": 685.5,
+      "duration_formatted": "0:11:25",
+      "startTime": 132993.5,
+      "endTime": 133679.1,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 165,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-03-voina-i-mir.mp3?1",
+      "duration_seconds": 818.9,
+      "duration_formatted": "0:13:38",
+      "startTime": 133679.1,
+      "endTime": 134498.0,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 166,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-04-voina-i-mir.mp3?1",
+      "duration_seconds": 781.9,
+      "duration_formatted": "0:13:01",
+      "startTime": 134498.0,
+      "endTime": 135279.8,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 167,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-05-voina-i-mir.mp3?1",
+      "duration_seconds": 453.9,
+      "duration_formatted": "0:07:33",
+      "startTime": 135279.8,
+      "endTime": 135733.7,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 168,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-06-voina-i-mir.mp3?1",
+      "duration_seconds": 1555.3,
+      "duration_formatted": "0:25:55",
+      "startTime": 135733.7,
+      "endTime": 137289.0,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 169,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-07-voina-i-mir.mp3?1",
+      "duration_seconds": 611.1,
+      "duration_formatted": "0:10:11",
+      "startTime": 137289.0,
+      "endTime": 137900.1,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 170,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-08-voina-i-mir.mp3?1",
+      "duration_seconds": 1147.4,
+      "duration_formatted": "0:19:07",
+      "startTime": 137900.1,
+      "endTime": 139047.6,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 171,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-09-voina-i-mir.mp3?1",
+      "duration_seconds": 1388.5,
+      "duration_formatted": "0:23:08",
+      "startTime": 139047.6,
+      "endTime": 140436.0,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 172,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-10-voina-i-mir.mp3?1",
+      "duration_seconds": 654.5,
+      "duration_formatted": "0:10:54",
+      "startTime": 140436.0,
+      "endTime": 141090.5,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 173,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-11-voina-i-mir.mp3?1",
+      "duration_seconds": 926.3,
+      "duration_formatted": "0:15:26",
+      "startTime": 141090.5,
+      "endTime": 142016.8,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 174,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-12-voina-i-mir.mp3?1",
+      "duration_seconds": 905.6,
+      "duration_formatted": "0:15:05",
+      "startTime": 142016.8,
+      "endTime": 142922.5,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 175,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-13-voina-i-mir.mp3?1",
+      "duration_seconds": 439.8,
+      "duration_formatted": "0:07:19",
+      "startTime": 142922.5,
+      "endTime": 143362.3,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 176,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-14-voina-i-mir.mp3?1",
+      "duration_seconds": 519.0,
+      "duration_formatted": "0:08:39",
+      "startTime": 143362.3,
+      "endTime": 143881.3,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 177,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-15-voina-i-mir.mp3?1",
+      "duration_seconds": 533.2,
+      "duration_formatted": "0:08:53",
+      "startTime": 143881.3,
+      "endTime": 144414.5,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 178,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-16-voina-i-mir.mp3?1",
+      "duration_seconds": 544.5,
+      "duration_formatted": "0:09:04",
+      "startTime": 144414.5,
+      "endTime": 144958.9,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 179,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-17-voina-i-mir.mp3?1",
+      "duration_seconds": 610.3,
+      "duration_formatted": "0:10:10",
+      "startTime": 144958.9,
+      "endTime": 145569.2,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 180,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-18-voina-i-mir.mp3?1",
+      "duration_seconds": 1161.5,
+      "duration_formatted": "0:19:21",
+      "startTime": 145569.2,
+      "endTime": 146730.7,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 181,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-19-voina-i-mir.mp3?1",
+      "duration_seconds": 791.4,
+      "duration_formatted": "0:13:11",
+      "startTime": 146730.7,
+      "endTime": 147522.1,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 182,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-20-voina-i-mir.mp3?1",
+      "duration_seconds": 927.6,
+      "duration_formatted": "0:15:27",
+      "startTime": 147522.1,
+      "endTime": 148449.7,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 183,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-21-voina-i-mir.mp3?1",
+      "duration_seconds": 901.4,
+      "duration_formatted": "0:15:01",
+      "startTime": 148449.7,
+      "endTime": 149351.1,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 184,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-22-voina-i-mir.mp3?1",
+      "duration_seconds": 922.0,
+      "duration_formatted": "0:15:22",
+      "startTime": 149351.1,
+      "endTime": 150273.1,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 22
+      }
+    },
+    {
+      "index": 185,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-01-23-voina-i-mir.mp3?1",
+      "duration_seconds": 330.6,
+      "duration_formatted": "0:05:30",
+      "startTime": 150273.1,
+      "endTime": 150603.7,
+      "metadata": {
+        "volume": 3,
+        "part": 1,
+        "chapter": 23
+      }
+    },
+    {
+      "index": 186,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-01-voina-i-mir.mp3?1",
+      "duration_seconds": 1204.5,
+      "duration_formatted": "0:20:04",
+      "startTime": 150603.7,
+      "endTime": 151808.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 187,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-02-voina-i-mir.mp3?1",
+      "duration_seconds": 697.6,
+      "duration_formatted": "0:11:37",
+      "startTime": 151808.3,
+      "endTime": 152505.9,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 188,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-03-voina-i-mir.mp3?1",
+      "duration_seconds": 502.4,
+      "duration_formatted": "0:08:22",
+      "startTime": 152505.9,
+      "endTime": 153008.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 189,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-04-voina-i-mir.mp3?1",
+      "duration_seconds": 1728.5,
+      "duration_formatted": "0:28:48",
+      "startTime": 153008.3,
+      "endTime": 154736.7,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 190,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-05-voina-i-mir.mp3?1",
+      "duration_seconds": 1157.4,
+      "duration_formatted": "0:19:17",
+      "startTime": 154736.7,
+      "endTime": 155894.1,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 191,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-06-voina-i-mir.mp3?1",
+      "duration_seconds": 895.7,
+      "duration_formatted": "0:14:55",
+      "startTime": 155894.1,
+      "endTime": 156789.9,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 192,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-07-voina-i-mir.mp3?1",
+      "duration_seconds": 708.7,
+      "duration_formatted": "0:11:48",
+      "startTime": 156789.9,
+      "endTime": 157498.5,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 193,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-08-voina-i-mir.mp3?1",
+      "duration_seconds": 1532.0,
+      "duration_formatted": "0:25:32",
+      "startTime": 157498.5,
+      "endTime": 159030.5,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 194,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-09-voina-i-mir.mp3?1",
+      "duration_seconds": 895.8,
+      "duration_formatted": "0:14:55",
+      "startTime": 159030.5,
+      "endTime": 159926.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 195,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-10-voina-i-mir.mp3?1",
+      "duration_seconds": 900.4,
+      "duration_formatted": "0:15:00",
+      "startTime": 159926.3,
+      "endTime": 160826.7,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 196,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-11-voina-i-mir.mp3?1",
+      "duration_seconds": 445.5,
+      "duration_formatted": "0:07:25",
+      "startTime": 160826.7,
+      "endTime": 161272.2,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 197,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-12-voina-i-mir.mp3?1",
+      "duration_seconds": 364.8,
+      "duration_formatted": "0:06:04",
+      "startTime": 161272.2,
+      "endTime": 161637.0,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 198,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-13-voina-i-mir.mp3?1",
+      "duration_seconds": 607.7,
+      "duration_formatted": "0:10:07",
+      "startTime": 161637.0,
+      "endTime": 162244.8,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 199,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-14-voina-i-mir.mp3?1",
+      "duration_seconds": 726.3,
+      "duration_formatted": "0:12:06",
+      "startTime": 162244.8,
+      "endTime": 162971.0,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 200,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-15-voina-i-mir.mp3?1",
+      "duration_seconds": 985.0,
+      "duration_formatted": "0:16:25",
+      "startTime": 162971.0,
+      "endTime": 163956.1,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 201,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-16-voina-i-mir.mp3?1",
+      "duration_seconds": 634.6,
+      "duration_formatted": "0:10:34",
+      "startTime": 163956.1,
+      "endTime": 164590.6,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 202,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-17-voina-i-mir.mp3?1",
+      "duration_seconds": 821.9,
+      "duration_formatted": "0:13:41",
+      "startTime": 164590.6,
+      "endTime": 165412.5,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 203,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-18-voina-i-mir.mp3?1",
+      "duration_seconds": 951.2,
+      "duration_formatted": "0:15:51",
+      "startTime": 165412.5,
+      "endTime": 166363.7,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 204,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-19-voina-i-mir.mp3?1",
+      "duration_seconds": 1113.1,
+      "duration_formatted": "0:18:33",
+      "startTime": 166363.7,
+      "endTime": 167476.9,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 205,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-20-voina-i-mir.mp3?1",
+      "duration_seconds": 632.1,
+      "duration_formatted": "0:10:32",
+      "startTime": 167476.9,
+      "endTime": 168108.9,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 206,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-21-voina-i-mir.mp3?1",
+      "duration_seconds": 726.2,
+      "duration_formatted": "0:12:06",
+      "startTime": 168108.9,
+      "endTime": 168835.1,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 21
+      }
+    },
+    {
+      "index": 207,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-22-voina-i-mir.mp3?1",
+      "duration_seconds": 748.0,
+      "duration_formatted": "0:12:27",
+      "startTime": 168835.1,
+      "endTime": 169583.1,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 22
+      }
+    },
+    {
+      "index": 208,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-23-voina-i-mir.mp3?1",
+      "duration_seconds": 303.3,
+      "duration_formatted": "0:05:03",
+      "startTime": 169583.1,
+      "endTime": 169886.5,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 23
+      }
+    },
+    {
+      "index": 209,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-24-voina-i-mir.mp3?1",
+      "duration_seconds": 515.0,
+      "duration_formatted": "0:08:35",
+      "startTime": 169886.5,
+      "endTime": 170401.5,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 24
+      }
+    },
+    {
+      "index": 210,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-25-voina-i-mir.mp3?1",
+      "duration_seconds": 1421.8,
+      "duration_formatted": "0:23:41",
+      "startTime": 170401.5,
+      "endTime": 171823.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 25
+      }
+    },
+    {
+      "index": 211,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-26-voina-i-mir.mp3?1",
+      "duration_seconds": 809.5,
+      "duration_formatted": "0:13:29",
+      "startTime": 171823.3,
+      "endTime": 172632.7,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 26
+      }
+    },
+    {
+      "index": 212,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-27-voina-i-mir.mp3?1",
+      "duration_seconds": 723.6,
+      "duration_formatted": "0:12:03",
+      "startTime": 172632.7,
+      "endTime": 173356.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 27
+      }
+    },
+    {
+      "index": 213,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-28-voina-i-mir.mp3?1",
+      "duration_seconds": 541.1,
+      "duration_formatted": "0:09:01",
+      "startTime": 173356.3,
+      "endTime": 173897.4,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 28
+      }
+    },
+    {
+      "index": 214,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-29-voina-i-mir.mp3?1",
+      "duration_seconds": 588.5,
+      "duration_formatted": "0:09:48",
+      "startTime": 173897.4,
+      "endTime": 174485.9,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 29
+      }
+    },
+    {
+      "index": 215,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-30-voina-i-mir.mp3?1",
+      "duration_seconds": 489.3,
+      "duration_formatted": "0:08:09",
+      "startTime": 174485.9,
+      "endTime": 174975.2,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 30
+      }
+    },
+    {
+      "index": 216,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-31-voina-i-mir.mp3?1",
+      "duration_seconds": 1167.1,
+      "duration_formatted": "0:19:27",
+      "startTime": 174975.2,
+      "endTime": 176142.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 31
+      }
+    },
+    {
+      "index": 217,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-32-voina-i-mir.mp3?1",
+      "duration_seconds": 364.9,
+      "duration_formatted": "0:06:04",
+      "startTime": 176142.3,
+      "endTime": 176507.2,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 32
+      }
+    },
+    {
+      "index": 218,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-33-voina-i-mir.mp3?1",
+      "duration_seconds": 513.4,
+      "duration_formatted": "0:08:33",
+      "startTime": 176507.2,
+      "endTime": 177020.6,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 33
+      }
+    },
+    {
+      "index": 219,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-34-voina-i-mir.mp3?1",
+      "duration_seconds": 982.7,
+      "duration_formatted": "0:16:22",
+      "startTime": 177020.6,
+      "endTime": 178003.3,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 34
+      }
+    },
+    {
+      "index": 220,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-35-voina-i-mir.mp3?1",
+      "duration_seconds": 808.9,
+      "duration_formatted": "0:13:28",
+      "startTime": 178003.3,
+      "endTime": 178812.2,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 35
+      }
+    },
+    {
+      "index": 221,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-36-voina-i-mir.mp3?1",
+      "duration_seconds": 819.3,
+      "duration_formatted": "0:13:39",
+      "startTime": 178812.2,
+      "endTime": 179631.6,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 36
+      }
+    },
+    {
+      "index": 222,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-37-voina-i-mir.mp3?1",
+      "duration_seconds": 516.3,
+      "duration_formatted": "0:08:36",
+      "startTime": 179631.6,
+      "endTime": 180147.8,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 37
+      }
+    },
+    {
+      "index": 223,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-38-voina-i-mir.mp3?1",
+      "duration_seconds": 668.8,
+      "duration_formatted": "0:11:08",
+      "startTime": 180147.8,
+      "endTime": 180816.6,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 38
+      }
+    },
+    {
+      "index": 224,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-02-39-voina-i-mir.mp3?1",
+      "duration_seconds": 520.8,
+      "duration_formatted": "0:08:40",
+      "startTime": 180816.6,
+      "endTime": 181337.4,
+      "metadata": {
+        "volume": 3,
+        "part": 2,
+        "chapter": 39
+      }
+    },
+    {
+      "index": 225,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-01-voina-i-mir.mp3?1",
+      "duration_seconds": 707.3,
+      "duration_formatted": "0:11:47",
+      "startTime": 181337.4,
+      "endTime": 182044.7,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 226,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-02-voina-i-mir.mp3?1",
+      "duration_seconds": 630.0,
+      "duration_formatted": "0:10:30",
+      "startTime": 182044.7,
+      "endTime": 182674.8,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 227,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-03-voina-i-mir.mp3?1",
+      "duration_seconds": 495.8,
+      "duration_formatted": "0:08:15",
+      "startTime": 182674.8,
+      "endTime": 183170.6,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 228,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-04-voina-i-mir.mp3?1",
+      "duration_seconds": 681.6,
+      "duration_formatted": "0:11:21",
+      "startTime": 183170.6,
+      "endTime": 183852.2,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 229,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-05-voina-i-mir.mp3?1",
+      "duration_seconds": 677.6,
+      "duration_formatted": "0:11:17",
+      "startTime": 183852.2,
+      "endTime": 184529.8,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 230,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/03-03-06-voina-i-mir.mp3?1",
+      "duration_seconds": 721.8,
+      "duration_formatted": "0:12:01",
+      "startTime": 184529.8,
+      "endTime": 185251.6,
+      "metadata": {
+        "volume": 3,
+        "part": 3,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 231,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-01-voina-i-mir.mp3?1",
+      "duration_seconds": 858.1,
+      "duration_formatted": "0:14:18",
+      "startTime": 185251.6,
+      "endTime": 186109.7,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 232,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-02-voina-i-mir.mp3?1",
+      "duration_seconds": 576.6,
+      "duration_formatted": "0:09:36",
+      "startTime": 186109.7,
+      "endTime": 186686.3,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 233,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-03-voina-i-mir.mp3?1",
+      "duration_seconds": 725.8,
+      "duration_formatted": "0:12:05",
+      "startTime": 186686.3,
+      "endTime": 187412.1,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 234,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-04-voina-i-mir.mp3?1",
+      "duration_seconds": 925.9,
+      "duration_formatted": "0:15:25",
+      "startTime": 187412.1,
+      "endTime": 188338.0,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 235,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-05-voina-i-mir.mp3?1",
+      "duration_seconds": 547.5,
+      "duration_formatted": "0:09:07",
+      "startTime": 188338.0,
+      "endTime": 188885.5,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 236,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-06-voina-i-mir.mp3?1",
+      "duration_seconds": 737.5,
+      "duration_formatted": "0:12:17",
+      "startTime": 188885.5,
+      "endTime": 189623.0,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 237,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-07-voina-i-mir.mp3?1",
+      "duration_seconds": 790.7,
+      "duration_formatted": "0:13:10",
+      "startTime": 189623.0,
+      "endTime": 190413.6,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 238,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-08-voina-i-mir.mp3?1",
+      "duration_seconds": 738.5,
+      "duration_formatted": "0:12:18",
+      "startTime": 190413.6,
+      "endTime": 191152.2,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 239,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-09-voina-i-mir.mp3?1",
+      "duration_seconds": 390.6,
+      "duration_formatted": "0:06:30",
+      "startTime": 191152.2,
+      "endTime": 191542.8,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 240,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-10-voina-i-mir.mp3?1",
+      "duration_seconds": 738.4,
+      "duration_formatted": "0:12:18",
+      "startTime": 191542.8,
+      "endTime": 192281.2,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 241,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-11-voina-i-mir.mp3?1",
+      "duration_seconds": 679.4,
+      "duration_formatted": "0:11:19",
+      "startTime": 192281.2,
+      "endTime": 192960.6,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 242,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-12-voina-i-mir.mp3?1",
+      "duration_seconds": 970.7,
+      "duration_formatted": "0:16:10",
+      "startTime": 192960.6,
+      "endTime": 193931.3,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 243,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-13-voina-i-mir.mp3?1",
+      "duration_seconds": 497.3,
+      "duration_formatted": "0:08:17",
+      "startTime": 193931.3,
+      "endTime": 194428.6,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 244,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-14-voina-i-mir.mp3?1",
+      "duration_seconds": 912.8,
+      "duration_formatted": "0:15:12",
+      "startTime": 194428.6,
+      "endTime": 195341.4,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 245,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-15-voina-i-mir.mp3?1",
+      "duration_seconds": 836.4,
+      "duration_formatted": "0:13:56",
+      "startTime": 195341.4,
+      "endTime": 196177.8,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 246,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-01-16-voina-i-mir.mp3?1",
+      "duration_seconds": 1192.0,
+      "duration_formatted": "0:19:51",
+      "startTime": 196177.8,
+      "endTime": 197369.8,
+      "metadata": {
+        "volume": 4,
+        "part": 1,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 247,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-01-voina-i-mir.mp3?1",
+      "duration_seconds": 719.3,
+      "duration_formatted": "0:11:59",
+      "startTime": 197369.8,
+      "endTime": 198089.1,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 248,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-02-voina-i-mir.mp3?1",
+      "duration_seconds": 575.2,
+      "duration_formatted": "0:09:35",
+      "startTime": 198089.1,
+      "endTime": 198664.3,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 249,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-03-voina-i-mir.mp3?1",
+      "duration_seconds": 583.7,
+      "duration_formatted": "0:09:43",
+      "startTime": 198664.3,
+      "endTime": 199248.0,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 250,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-04-voina-i-mir.mp3?1",
+      "duration_seconds": 356.2,
+      "duration_formatted": "0:05:56",
+      "startTime": 199248.0,
+      "endTime": 199604.2,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 251,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-05-voina-i-mir.mp3?1",
+      "duration_seconds": 328.0,
+      "duration_formatted": "0:05:28",
+      "startTime": 199604.2,
+      "endTime": 199932.3,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 252,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-06-voina-i-mir.mp3?1",
+      "duration_seconds": 624.5,
+      "duration_formatted": "0:10:24",
+      "startTime": 199932.3,
+      "endTime": 200556.8,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 253,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-07-voina-i-mir.mp3?1",
+      "duration_seconds": 400.3,
+      "duration_formatted": "0:06:40",
+      "startTime": 200556.8,
+      "endTime": 200957.1,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 254,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-08-voina-i-mir.mp3?1",
+      "duration_seconds": 436.9,
+      "duration_formatted": "0:07:16",
+      "startTime": 200957.1,
+      "endTime": 201394.0,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 255,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-09-voina-i-mir.mp3?1",
+      "duration_seconds": 1081.1,
+      "duration_formatted": "0:18:01",
+      "startTime": 201394.0,
+      "endTime": 202475.1,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 256,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-10-voina-i-mir.mp3?1",
+      "duration_seconds": 738.5,
+      "duration_formatted": "0:12:18",
+      "startTime": 202475.1,
+      "endTime": 203213.6,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 257,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-11-voina-i-mir.mp3?1",
+      "duration_seconds": 756.6,
+      "duration_formatted": "0:12:36",
+      "startTime": 203213.6,
+      "endTime": 203970.2,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 258,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-12-voina-i-mir.mp3?1",
+      "duration_seconds": 498.6,
+      "duration_formatted": "0:08:18",
+      "startTime": 203970.2,
+      "endTime": 204468.8,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 259,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-13-voina-i-mir.mp3?1",
+      "duration_seconds": 583.6,
+      "duration_formatted": "0:09:43",
+      "startTime": 204468.8,
+      "endTime": 205052.4,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 260,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-14-voina-i-mir.mp3?1",
+      "duration_seconds": 740.7,
+      "duration_formatted": "0:12:20",
+      "startTime": 205052.4,
+      "endTime": 205793.1,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 261,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-15-voina-i-mir.mp3?1",
+      "duration_seconds": 556.5,
+      "duration_formatted": "0:09:16",
+      "startTime": 205793.1,
+      "endTime": 206349.6,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 262,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-16-voina-i-mir.mp3?1",
+      "duration_seconds": 472.7,
+      "duration_formatted": "0:07:52",
+      "startTime": 206349.6,
+      "endTime": 206822.3,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 263,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-02-17-voina-i-mir.mp3?1",
+      "duration_seconds": 573.2,
+      "duration_formatted": "0:09:33",
+      "startTime": 206822.3,
+      "endTime": 207395.5,
+      "metadata": {
+        "volume": 4,
+        "part": 2,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 264,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-01-voina-i-mir.mp3?1",
+      "duration_seconds": 682.8,
+      "duration_formatted": "0:11:22",
+      "startTime": 207395.5,
+      "endTime": 208078.3,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 265,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-02-voina-i-mir.mp3?1",
+      "duration_seconds": 515.1,
+      "duration_formatted": "0:08:35",
+      "startTime": 208078.3,
+      "endTime": 208593.4,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 266,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-03-voina-i-mir.mp3?1",
+      "duration_seconds": 584.0,
+      "duration_formatted": "0:09:44",
+      "startTime": 208593.4,
+      "endTime": 209177.4,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 267,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-04-voina-i-mir.mp3?1",
+      "duration_seconds": 587.3,
+      "duration_formatted": "0:09:47",
+      "startTime": 209177.4,
+      "endTime": 209764.8,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 268,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-05-voina-i-mir.mp3?1",
+      "duration_seconds": 576.4,
+      "duration_formatted": "0:09:36",
+      "startTime": 209764.8,
+      "endTime": 210341.1,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 269,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-06-voina-i-mir.mp3?1",
+      "duration_seconds": 354.6,
+      "duration_formatted": "0:05:54",
+      "startTime": 210341.1,
+      "endTime": 210695.7,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 270,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-07-voina-i-mir.mp3?1",
+      "duration_seconds": 597.7,
+      "duration_formatted": "0:09:57",
+      "startTime": 210695.7,
+      "endTime": 211293.3,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 271,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-08-voina-i-mir.mp3?1",
+      "duration_seconds": 383.2,
+      "duration_formatted": "0:06:23",
+      "startTime": 211293.3,
+      "endTime": 211676.6,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 272,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-09-voina-i-mir.mp3?1",
+      "duration_seconds": 500.3,
+      "duration_formatted": "0:08:20",
+      "startTime": 211676.6,
+      "endTime": 212176.8,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 273,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-10-voina-i-mir.mp3?1",
+      "duration_seconds": 635.3,
+      "duration_formatted": "0:10:35",
+      "startTime": 212176.8,
+      "endTime": 212812.1,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 274,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-11-voina-i-mir.mp3?1",
+      "duration_seconds": 459.2,
+      "duration_formatted": "0:07:39",
+      "startTime": 212812.1,
+      "endTime": 213271.4,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 275,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-12-voina-i-mir.mp3?1",
+      "duration_seconds": 557.7,
+      "duration_formatted": "0:09:17",
+      "startTime": 213271.4,
+      "endTime": 213829.0,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 276,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-13-voina-i-mir.mp3?1",
+      "duration_seconds": 541.3,
+      "duration_formatted": "0:09:01",
+      "startTime": 213829.0,
+      "endTime": 214370.3,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 277,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-14-voina-i-mir.mp3?1",
+      "duration_seconds": 249.2,
+      "duration_formatted": "0:04:09",
+      "startTime": 214370.3,
+      "endTime": 214619.5,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 278,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-15-voina-i-mir.mp3?1",
+      "duration_seconds": 453.0,
+      "duration_formatted": "0:07:33",
+      "startTime": 214619.5,
+      "endTime": 215072.5,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 279,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-16-voina-i-mir.mp3?1",
+      "duration_seconds": 293.3,
+      "duration_formatted": "0:04:53",
+      "startTime": 215072.5,
+      "endTime": 215365.8,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 280,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-17-voina-i-mir.mp3?1",
+      "duration_seconds": 290.7,
+      "duration_formatted": "0:04:50",
+      "startTime": 215365.8,
+      "endTime": 215656.5,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 281,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-18-voina-i-mir.mp3?1",
+      "duration_seconds": 351.8,
+      "duration_formatted": "0:05:51",
+      "startTime": 215656.5,
+      "endTime": 216008.4,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 282,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-03-19-voina-i-mir.mp3?1",
+      "duration_seconds": 940.3,
+      "duration_formatted": "0:15:40",
+      "startTime": 216008.4,
+      "endTime": 216948.6,
+      "metadata": {
+        "volume": 4,
+        "part": 3,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 283,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-01-voina-i-mir.mp3?1",
+      "duration_seconds": 760.0,
+      "duration_formatted": "0:12:39",
+      "startTime": 216948.6,
+      "endTime": 217708.6,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 1
+      }
+    },
+    {
+      "index": 284,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-02-voina-i-mir.mp3?1",
+      "duration_seconds": 396.7,
+      "duration_formatted": "0:06:36",
+      "startTime": 217708.6,
+      "endTime": 218105.2,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 2
+      }
+    },
+    {
+      "index": 285,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-03-voina-i-mir.mp3?1",
+      "duration_seconds": 473.1,
+      "duration_formatted": "0:07:53",
+      "startTime": 218105.2,
+      "endTime": 218578.3,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 3
+      }
+    },
+    {
+      "index": 286,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-04-voina-i-mir.mp3?1",
+      "duration_seconds": 622.8,
+      "duration_formatted": "0:10:22",
+      "startTime": 218578.3,
+      "endTime": 219201.1,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 4
+      }
+    },
+    {
+      "index": 287,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-05-voina-i-mir.mp3?1",
+      "duration_seconds": 733.5,
+      "duration_formatted": "0:12:13",
+      "startTime": 219201.1,
+      "endTime": 219934.6,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 5
+      }
+    },
+    {
+      "index": 288,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-06-voina-i-mir.mp3?1",
+      "duration_seconds": 698.0,
+      "duration_formatted": "0:11:38",
+      "startTime": 219934.6,
+      "endTime": 220632.6,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 6
+      }
+    },
+    {
+      "index": 289,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-07-voina-i-mir.mp3?1",
+      "duration_seconds": 395.3,
+      "duration_formatted": "0:06:35",
+      "startTime": 220632.6,
+      "endTime": 221027.9,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 7
+      }
+    },
+    {
+      "index": 290,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-08-voina-i-mir.mp3?1",
+      "duration_seconds": 525.9,
+      "duration_formatted": "0:08:45",
+      "startTime": 221027.9,
+      "endTime": 221553.8,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 8
+      }
+    },
+    {
+      "index": 291,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-09-voina-i-mir.mp3?1",
+      "duration_seconds": 368.6,
+      "duration_formatted": "0:06:08",
+      "startTime": 221553.8,
+      "endTime": 221922.4,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 9
+      }
+    },
+    {
+      "index": 292,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-10-voina-i-mir.mp3?1",
+      "duration_seconds": 1098.5,
+      "duration_formatted": "0:18:18",
+      "startTime": 221922.4,
+      "endTime": 223020.9,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 10
+      }
+    },
+    {
+      "index": 293,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-11-voina-i-mir.mp3?1",
+      "duration_seconds": 326.8,
+      "duration_formatted": "0:05:26",
+      "startTime": 223020.9,
+      "endTime": 223347.6,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 11
+      }
+    },
+    {
+      "index": 294,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-12-voina-i-mir.mp3?1",
+      "duration_seconds": 534.6,
+      "duration_formatted": "0:08:54",
+      "startTime": 223347.6,
+      "endTime": 223882.2,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 12
+      }
+    },
+    {
+      "index": 295,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-13-voina-i-mir.mp3?1",
+      "duration_seconds": 878.9,
+      "duration_formatted": "0:14:38",
+      "startTime": 223882.2,
+      "endTime": 224761.2,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 13
+      }
+    },
+    {
+      "index": 296,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-14-voina-i-mir.mp3?1",
+      "duration_seconds": 437.0,
+      "duration_formatted": "0:07:16",
+      "startTime": 224761.2,
+      "endTime": 225198.2,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 14
+      }
+    },
+    {
+      "index": 297,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-15-voina-i-mir.mp3?1",
+      "duration_seconds": 531.8,
+      "duration_formatted": "0:08:51",
+      "startTime": 225198.2,
+      "endTime": 225730.0,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 15
+      }
+    },
+    {
+      "index": 298,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-16-voina-i-mir.mp3?1",
+      "duration_seconds": 435.9,
+      "duration_formatted": "0:07:15",
+      "startTime": 225730.0,
+      "endTime": 226165.9,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 16
+      }
+    },
+    {
+      "index": 299,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-17-voina-i-mir.mp3?1",
+      "duration_seconds": 858.8,
+      "duration_formatted": "0:14:18",
+      "startTime": 226165.9,
+      "endTime": 227024.7,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 17
+      }
+    },
+    {
+      "index": 300,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-18-voina-i-mir.mp3?1",
+      "duration_seconds": 875.5,
+      "duration_formatted": "0:14:35",
+      "startTime": 227024.7,
+      "endTime": 227900.2,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 18
+      }
+    },
+    {
+      "index": 301,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-19-voina-i-mir.mp3?1",
+      "duration_seconds": 319.7,
+      "duration_formatted": "0:05:19",
+      "startTime": 227900.2,
+      "endTime": 228219.9,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 19
+      }
+    },
+    {
+      "index": 302,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/04-04-20-voina-i-mir.mp3?1",
+      "duration_seconds": 257.1,
+      "duration_formatted": "0:04:17",
+      "startTime": 228219.9,
+      "endTime": 228477.0,
+      "metadata": {
+        "volume": 4,
+        "part": 4,
+        "chapter": 20
+      }
+    },
+    {
+      "index": 303,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-01-epilog.mp3?1",
+      "duration_seconds": 927.8,
+      "duration_formatted": "0:15:27",
+      "startTime": 228477,
+      "endTime": 229404.8
+    },
+    {
+      "index": 304,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-02-epilog.mp3?1",
+      "duration_seconds": 351.6,
+      "duration_formatted": "0:05:51",
+      "startTime": 229404.8,
+      "endTime": 229756.4
+    },
+    {
+      "index": 305,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-03-epilog.mp3?1",
+      "duration_seconds": 1244.8,
+      "duration_formatted": "0:20:44",
+      "startTime": 229756.4,
+      "endTime": 231001.2
+    },
+    {
+      "index": 306,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-04-epilog.mp3?1",
+      "duration_seconds": 536.7,
+      "duration_formatted": "0:08:56",
+      "startTime": 231001.2,
+      "endTime": 231537.9
+    },
+    {
+      "index": 307,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-05-epilog.mp3?1",
+      "duration_seconds": 550.8,
+      "duration_formatted": "0:09:10",
+      "startTime": 231537.9,
+      "endTime": 232088.7
+    },
+    {
+      "index": 308,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-06-epilog.mp3?1",
+      "duration_seconds": 691.0,
+      "duration_formatted": "0:11:31",
+      "startTime": 232088.7,
+      "endTime": 232779.7
+    },
+    {
+      "index": 309,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-07-epilog.mp3?1",
+      "duration_seconds": 602.8,
+      "duration_formatted": "0:10:02",
+      "startTime": 232779.7,
+      "endTime": 233382.5
+    },
+    {
+      "index": 310,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-08-epilog.mp3?1",
+      "duration_seconds": 622.6,
+      "duration_formatted": "0:10:22",
+      "startTime": 233382.5,
+      "endTime": 234005.1
+    },
+    {
+      "index": 311,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-09-epilog.mp3?1",
+      "duration_seconds": 844.8,
+      "duration_formatted": "0:14:04",
+      "startTime": 234005.1,
+      "endTime": 234849.9
+    },
+    {
+      "index": 312,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-10-epilog.mp3?1",
+      "duration_seconds": 886.1,
+      "duration_formatted": "0:14:46",
+      "startTime": 234849.9,
+      "endTime": 235736.0
+    },
+    {
+      "index": 313,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-11-epilog.mp3?1",
+      "duration_seconds": 541.9,
+      "duration_formatted": "0:09:01",
+      "startTime": 235736.0,
+      "endTime": 236277.9
+    },
+    {
+      "index": 314,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-12-epilog.mp3?1",
+      "duration_seconds": 781.5,
+      "duration_formatted": "0:13:01",
+      "startTime": 236277.9,
+      "endTime": 237059.3
+    },
+    {
+      "index": 315,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-13-epilog.mp3?1",
+      "duration_seconds": 616.1,
+      "duration_formatted": "0:10:16",
+      "startTime": 237059.3,
+      "endTime": 237675.4
+    },
+    {
+      "index": 316,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-14-epilog.mp3?1",
+      "duration_seconds": 1132.5,
+      "duration_formatted": "0:18:52",
+      "startTime": 237675.4,
+      "endTime": 238808.0
+    },
+    {
+      "index": 316,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-15-epilog.mp3?1",
+      "duration_seconds": 760.8,
+      "duration_formatted": "0:12:40",
+      "startTime": 238808.0,
+      "endTime": 239568.7
+    },
+    {
+      "index": 317,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-01-16-epilog.mp3?1",
+      "duration_seconds": 963.7,
+      "duration_formatted": "0:16:03",
+      "startTime": 239568.7,
+      "endTime": 240532.4
+    },
+    {
+      "index": 318,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-01-epilog.mp3?1",
+      "duration_seconds": 948.3,
+      "duration_formatted": "0:15:48",
+      "startTime": 240532.4,
+      "endTime": 241480.7
+    },
+    {
+      "index": 319,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-02-epilog.mp3?1",
+      "duration_seconds": 1029.4,
+      "duration_formatted": "0:17:09",
+      "startTime": 241480.7,
+      "endTime": 242510.1
+    },
+    {
+      "index": 320,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-03-epilog.mp3?1",
+      "duration_seconds": 436.7,
+      "duration_formatted": "0:07:16",
+      "startTime": 242510.1,
+      "endTime": 242946.8
+    },
+    {
+      "index": 321,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-04-epilog.mp3?1",
+      "duration_seconds": 1398.6,
+      "duration_formatted": "0:23:18",
+      "startTime": 242946.8,
+      "endTime": 244345.4
+    },
+    {
+      "index":322,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-05-epilog.mp3?1",
+      "duration_seconds": 570.8,
+      "duration_formatted": "0:09:30",
+      "startTime": 244345.4,
+      "endTime": 244916.2
+    },
+    {
+      "index": 323,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-06-epilog.mp3?1",
+      "duration_seconds": 661.2,
+      "duration_formatted": "0:11:01",
+      "startTime": 244916.2,
+      "endTime": 245577.4
+    },
+    {
+      "index": 324,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-07-epilog.mp3?1",
+      "duration_seconds": 607.8,
+      "duration_formatted": "0:10:07",
+      "startTime": 245577.4,
+      "endTime": 246185.2
+    },
+    {
+      "index": 325,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-08-epilog.mp3?1",
+      "duration_seconds": 860.9,
+      "duration_formatted": "0:14:20",
+      "startTime": 246185.2,
+      "endTime": 247046.1
+    },
+    {
+      "index": 326,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-09-epilog.mp3?1",
+      "duration_seconds": 1062.1,
+      "duration_formatted": "0:17:42",
+      "startTime": 247046.1,
+      "endTime": 248108.2
+    },
+    {
+      "index": 327,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-10-epilog.mp3?1",
+      "duration_seconds": 1022.7,
+      "duration_formatted": "0:17:02",
+      "startTime": 248108.2,
+      "endTime": 249130.9
+    },
+    {
+      "index": 328,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-11-epilog.mp3?1",
+      "duration_seconds": 294.6,
+      "duration_formatted": "0:04:54",
+      "startTime": 249130.9,
+      "endTime": 249425.6
+    },
+    {
+      "index": 329,
+      "url": "https://s9.knigavuhe.org/1/audio/5301/05-02-12-epilog.mp3?1",
+      "duration_seconds": 446.8,
+      "duration_formatted": "0:07:26",
+      "startTime": 249425.6,
+      "endTime": 249872.4
+    }
+  ]
+},
+{
+  "id": "2",
+  "title": "Преступление и наказание",
+  "author": "Фёдор Достоевский",
+  "genre": "Классика",
+  "narrators": ["Борис Улитин"],
+  "description": "«Преступление и наказание» — это психологический роман о молодом, бедном бывшем студенте Родионе Раскольникове, который решается на убийство. Пытаясь доказать свою теорию и вырваться из нищеты, он сталкивается с мучительными последствиями содеянного, приводящими к глубокому внутреннему кризису, раскаянию и духовному перерождению.",
+  "cover": "https://s5.knigavuhe.org/1/covers/2376/2-4.jpg?v=2",
+  "durationSeconds": 91810,
+  "durationHours": "25.5",
+  "durationFormatted": "25:30:10",
+  "tracks": [
+    {
+      "index": 1,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/01part1-01mp3.mp3?1",
+      "duration_seconds": 1444.7,
+      "duration_formatted": "0:24:04",
+      "startTime": 0,
+      "endTime": 1444.7
+    },
+    {
+      "index": 2,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/02part1-02mp3.mp3?1",
+      "duration_seconds": 3089.6,
+      "duration_formatted": "0:51:29",
+      "startTime": 1444.7,
+      "endTime": 4534.3
+    },
+    {
+      "index": 3,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/03part1-03mp3.mp3?1",
+      "duration_seconds": 2029.2,
+      "duration_formatted": "0:33:49",
+      "startTime": 4534.3,
+      "endTime": 6563.5
+    },
+    {
+      "index": 4,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/04part1-04mp3.mp3?1",
+      "duration_seconds": 2021.0,
+      "duration_formatted": "0:33:40",
+      "startTime": 6563.5,
+      "endTime": 8584.5
+    },
+    {
+      "index": 5,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/05part1-05mp3.mp3?1",
+      "duration_seconds": 1799.2,
+      "duration_formatted": "0:29:59",
+      "startTime": 8584.5,
+      "endTime": 10383.7
+    },
+    {
+      "index": 6,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/06part1-06mp3.mp3?1",
+      "duration_seconds": 2115.6,
+      "duration_formatted": "0:35:15",
+      "startTime": 10383.7,
+      "endTime": 12499.3
+    },
+    {
+      "index": 7,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/07part1-07mp3.mp3?1",
+      "duration_seconds": 1874.4,
+      "duration_formatted": "0:31:14",
+      "startTime": 12499.3,
+      "endTime": 14373.7
+    },
+    {
+      "index": 8,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/08part2-01mp3.mp3?1",
+      "duration_seconds": 2743.1,
+      "duration_formatted": "0:45:43",
+      "startTime": 14373.7,
+      "endTime": 17116.8
+    },
+    {
+      "index": 9,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/09part2-02mp3.mp3?1",
+      "duration_seconds": 1833.6,
+      "duration_formatted": "0:30:33",
+      "startTime": 17116.8,
+      "endTime": 18950.4
+    },
+    {
+      "index": 10,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/10part2-03mp3.mp3?1",
+      "duration_seconds": 2190.1,
+      "duration_formatted": "0:36:30",
+      "startTime": 18950.4,
+      "endTime": 21140.5
+    },
+    {
+      "index": 11,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/11part2-04mp3.mp3?1",
+      "duration_seconds": 1598.7,
+      "duration_formatted": "0:26:38",
+      "startTime": 21140.5,
+      "endTime": 22739.2
+    },
+    {
+      "index": 12,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/12part2-05mp3.mp3?1",
+      "duration_seconds": 1935.7,
+      "duration_formatted": "0:32:15",
+      "startTime": 22739.2,
+      "endTime": 24674.9
+    },
+    {
+      "index": 13,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/13part2-06mp3.mp3?1",
+      "duration_seconds": 3462.3,
+      "duration_formatted": "0:57:42",
+      "startTime": 24674.9,
+      "endTime": 28137.2
+    },
+    {
+      "index": 14,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/14part2-07mp3.mp3?1",
+      "duration_seconds": 2959.2,
+      "duration_formatted": "0:49:19",
+      "startTime": 28137.2,
+      "endTime": 31096.4
+    },
+    {
+      "index": 15,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/15part3-01mp3.mp3?1",
+      "duration_seconds": 2087.8,
+      "duration_formatted": "0:34:47",
+      "startTime": 31096.4,
+      "endTime": 33184.2
+    },
+    {
+      "index": 16,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/16part3-02mp3.mp3?1",
+      "duration_seconds": 1824.0,
+      "duration_formatted": "0:30:24",
+      "startTime": 33184.2,
+      "endTime": 35008.2
+    },
+    {
+      "index": 17,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/17part3-03mp3.mp3?1",
+      "duration_seconds": 2003.0,
+      "duration_formatted": "0:33:23",
+      "startTime": 35008.2,
+      "endTime": 37011.2
+    },
+    {
+      "index": 18,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/18part3-04mp3.mp3?1",
+      "duration_seconds": 1729.0,
+      "duration_formatted": "0:28:49",
+      "startTime": 37011.2,
+      "endTime": 38740.2
+    },
+    {
+      "index": 19,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/19part3-05mp3.mp3?1",
+      "duration_seconds": 3280.1,
+      "duration_formatted": "0:54:40",
+      "startTime": 38740.2,
+      "endTime": 42020.3
+    },
+    {
+      "index": 20,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/20part3-06mp3.mp3?1",
+      "duration_seconds": 1958.9,
+      "duration_formatted": "0:32:38",
+      "startTime": 42020.3,
+      "endTime": 43979.2
+    },
+    {
+      "index": 21,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/21part4-01mp3.mp3?1",
+      "duration_seconds": 2401.1,
+      "duration_formatted": "0:40:01",
+      "startTime": 43979.2,
+      "endTime": 46380.3
+    },
+    {
+      "index": 22,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/22part4-02mp3.mp3?1",
+      "duration_seconds": 2034.7,
+      "duration_formatted": "0:33:54",
+      "startTime": 46380.3,
+      "endTime": 48415.0
+    },
+    {
+      "index": 23,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/23part4-03mp3.mp3?1",
+      "duration_seconds": 1311.4,
+      "duration_formatted": "0:21:51",
+      "startTime": 48415.0,
+      "endTime": 49726.4
+    },
+    {
+      "index": 24,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/24part4-04mp3.mp3?1",
+      "duration_seconds": 2683.4,
+      "duration_formatted": "0:44:43",
+      "startTime": 49726.4,
+      "endTime": 52409.8
+    },
+    {
+      "index": 25,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/25part4-05mp3.mp3?1",
+      "duration_seconds": 3453.4,
+      "duration_formatted": "0:57:33",
+      "startTime": 52409.8,
+      "endTime": 55863.2
+    },
+    {
+      "index": 26,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/26part4-06mp3.mp3?1",
+      "duration_seconds": 1323.5,
+      "duration_formatted": "0:22:03",
+      "startTime": 55863.2,
+      "endTime": 57186.7
+    },
+    {
+      "index": 27,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/27part5-01mp3.mp3?1",
+      "duration_seconds": 2842.1,
+      "duration_formatted": "0:47:22",
+      "startTime": 57186.7,
+      "endTime": 60028.8
+    },
+    {
+      "index": 28,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/28part5-02mp3.mp3?1",
+      "duration_seconds": 2281.2,
+      "duration_formatted": "0:38:01",
+      "startTime": 60028.8,
+      "endTime": 62310.0
+    },
+    {
+      "index": 29,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/29part5-03mp3.mp3?1",
+      "duration_seconds": 2582.7,
+      "duration_formatted": "0:43:02",
+      "startTime": 62310.0,
+      "endTime": 64892.7
+    },
+    {
+      "index": 30,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/30part5-04mp3.mp3?1",
+      "duration_seconds": 3130.7,
+      "duration_formatted": "0:52:10",
+      "startTime": 64892.7,
+      "endTime": 68023.4
+    },
+    {
+      "index": 31,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/31part5-05mp3.mp3?1",
+      "duration_seconds": 2554.4,
+      "duration_formatted": "0:42:34",
+      "startTime": 68023.4,
+      "endTime": 70577.8
+    },
+    {
+      "index": 32,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/32part6-01mp3.mp3?1",
+      "duration_seconds": 1880.4,
+      "duration_formatted": "0:31:20",
+      "startTime": 70577.8,
+      "endTime": 72458.2
+    },
+    {
+      "index": 33,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/33part6-02mp3.mp3?1",
+      "duration_seconds": 3017.8,
+      "duration_formatted": "0:50:17",
+      "startTime": 72458.2,
+      "endTime": 75476.0
+    },
+    {
+      "index": 34,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/34part6-03mp3.mp3?1",
+      "duration_seconds": 1852.1,
+      "duration_formatted": "0:30:52",
+      "startTime": 75476.0,
+      "endTime": 77328.1
+    },
+    {
+      "index": 35,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/35part6-04mp3.mp3?1",
+      "duration_seconds": 2379.1,
+      "duration_formatted": "0:39:39",
+      "startTime": 77328.1,
+      "endTime": 79707.2
+    },
+    {
+      "index": 36,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/36part6-05mp3.mp3?1",
+      "duration_seconds": 2689.6,
+      "duration_formatted": "0:44:49",
+      "startTime": 79707.2,
+      "endTime": 82396.8
+    },
+    {
+      "index": 37,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/37part6-06mp3.mp3?1",
+      "duration_seconds": 2732.6,
+      "duration_formatted": "0:45:32",
+      "startTime": 82396.8,
+      "endTime": 85129.4
+    },
+    {
+      "index": 38,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/38part6-07mp3.mp3?1",
+      "duration_seconds": 1667.0,
+      "duration_formatted": "0:27:46",
+      "startTime": 85129.4,
+      "endTime": 86796.4
+    },
+    {
+      "index": 39,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/39part6-08mp3.mp3?1",
+      "duration_seconds": 1836.6,
+      "duration_formatted": "0:30:36",
+      "startTime": 86796.4,
+      "endTime": 88633.0
+    },
+        {
+      "index": 40,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/40fin-01mp3.mp3?1",
+      "duration_seconds": 1493.0,
+      "duration_formatted": "0:24:53",
+      "startTime": 88633.0,
+      "endTime": 90126.0
+    },
+    {
+      "index": 41,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/41fin-02mp3.mp3?1",
+      "duration_seconds": 1633.0,
+      "duration_formatted": "0:27:13",
+      "startTime": 90126.0,
+      "endTime": 91759.0
+    },
+    {
+      "index": 42,
+      "url": "https://s3.knigavuhe.org/1/audio/6323/42psmp3.mp3?1",
+      "duration_seconds": 51.0,
+      "duration_formatted": "0:00:51",
+      "startTime": 91759.0,
+      "endTime": 91810.0
+    }
+  ]
+},
+  {
+    "id": "3",
+    "title": "Мёртвые души",
+    "author": "Николай Гоголь",
+    "genre": "Юмор и сатира",
+    "rating": 9.4,
+    "durationHours": 10.28,
+    "durationSeconds": 37021.3,
+    "durationFormatted": "10:17:01",
+    "narrators": [
+      "Василий Бочкарев",
+      "Александр Феклистов",
+      "Александр Ильин",
+      "Зинаида Андреева",
+      "Борис Плотников",
+      "Елена Харитонова",
+      "Ольга Шорохова",
+      "Галина Петрова",
+      "Татьяна Шатилова",
+      "Дмитрий Назаров",
+      "Сергей Кутасов",
+      "Александр Леньков",
+      "Ольга Кузнецова",
+      "Александр Вдовин"
+    ],
+    "description": "«Мёртвые души» Николая Гоголя (официально — поэма) — это сатирическая история о коллежском советнике Павле Чичикове. Он скупает у помещиков умерших крепостных крестьян, которые по документам числятся живыми, чтобы заложить их государству, разбогатеть и создать иллюзию богатства.",
+    "cover": "https://s5.knigavuhe.org/1/covers/2553/2-4.jpg?v=2",
+     "tracks": [
+    {
+      "index": 1,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-01.mp3?1",
+      "duration_formatted": "0:32:15",
+      "startTime": 0,
+      "endTime": 1935.2
+    },
+    {
+      "index": 2,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-02.mp3?1",
+      "duration_formatted": "0:51:03",
+      "startTime": 1935.2,
+      "endTime": 4999.1
+    },
+    {
+      "index": 3,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-03.mp3?1",
+      "duration_formatted": "0:47:44",
+      "startTime": 4999.1,
+      "endTime": 7864.0
+    },
+    {
+      "index": 4,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-04.mp3?1",
+      "duration_formatted": "1:10:04",
+      "startTime": 7864.0,
+      "endTime": 12068.1
+    },
+    {
+      "index": 5,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-05.mp3?1",
+      "duration_formatted": "0:53:22",
+      "startTime": 12068.1,
+      "endTime": 15271.0
+    },
+    {
+      "index": 6,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-06.mp3?1",
+      "duration_formatted": "0:50:29",
+      "startTime": 15271.0,
+      "endTime": 18300.2
+    },
+    {
+      "index": 7,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-07.mp3?1",
+      "duration_formatted": "0:55:22",
+      "startTime": 18300.2,
+      "endTime": 21622.9
+    },
+    {
+      "index": 8,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-08.mp3?1",
+      "duration_formatted": "0:55:29",
+      "startTime": 21622.9,
+      "endTime": 24952.6
+    },
+    {
+      "index": 9,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-09.mp3?1",
+      "duration_formatted": "0:46:29",
+      "startTime": 24952.6,
+      "endTime": 27741.7
+    },
+    {
+      "index": 10,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-10.mp3?1",
+      "duration_formatted": "0:49:34",
+      "startTime": 27741.7,
+      "endTime": 30715.8
+    },
+    {
+      "index": 11,
+      "url": "https://s4.knigavuhe.org/1/audio/5964/mertvye-dushi-11.mp3?1",
+      "duration_formatted": "1:45:05",
+      "startTime": 30715.8,
+      "endTime": 37021.3
+    }
+  ]
+  },
+{
+  "id": "4",
+  "title": "Отцы и дети",
+  "author": "Иван Тургенев",
+  "genre": "Классика",
+  "narrators": [
+      "Василий Бочкарев",
+      "Сергей Чонишвили",
+      "Александр Феклистов",
+      "Аристарх Ливанов"
+    ],
+  "description": "«Отцы и дети» — знаменитый роман И. С. Тургенева, исследующий вечный конфликт поколений. В центре сюжета противостояние консервативных аристократов Кирсановых и молодого нигилиста Евгения Базарова, отрицающего любые авторитеты и духовные ценности ради науки и материализма.",
+  "cover": "https://s5.knigavuhe.org/1/covers/4135/2-4.jpg?v=2",
+  "durationHours": 5.5,
+  "durationFormatted": "5:29:30",
+  "tracks": [
+    {
+      "index": 1,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-01.mp3?1",
+      "duration_seconds": 1293.3,
+      "duration_formatted": "0:21:33",
+      "startTime": 0,
+      "endTime": 1293.3
+    },
+    {
+      "index": 2,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-02.mp3?1",
+      "duration_seconds": 1292.2,
+      "duration_formatted": "0:21:32",
+      "startTime": 1293.3,
+      "endTime": 2585.5
+    },
+    {
+      "index": 3,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-03.mp3?1",
+      "duration_seconds": 825.3,
+      "duration_formatted": "0:13:45",
+      "startTime": 2585.5,
+      "endTime": 3410.8
+    },
+    {
+      "index": 4,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-04.mp3?1",
+      "duration_seconds": 1599.9,
+      "duration_formatted": "0:26:39",
+      "startTime": 3410.8,
+      "endTime": 5010.7
+    },
+    {
+      "index": 5,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-05.mp3?1",
+      "duration_seconds": 1386.7,
+      "duration_formatted": "0:23:06",
+      "startTime": 5010.7,
+      "endTime": 6397.4
+    },
+    {
+      "index": 6,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-06.mp3?1",
+      "duration_seconds": 1191.1,
+      "duration_formatted": "0:19:51",
+      "startTime": 6397.4,
+      "endTime": 7588.5
+    },
+    {
+      "index": 7,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-07.mp3?1",
+      "duration_seconds": 1593.4,
+      "duration_formatted": "0:26:33",
+      "startTime": 7588.5,
+      "endTime": 9182.0
+    },
+    {
+      "index": 8,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-08.mp3?1",
+      "duration_seconds": 897.0,
+      "duration_formatted": "0:14:56",
+      "startTime": 9182.0,
+      "endTime": 10078.9
+    },
+    {
+      "index": 9,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-09.mp3?1",
+      "duration_seconds": 1269.1,
+      "duration_formatted": "0:21:09",
+      "startTime": 10078.9,
+      "endTime": 11348.0
+    },
+    {
+      "index": 10,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-10.mp3?1",
+      "duration_seconds": 1355.3,
+      "duration_formatted": "0:22:35",
+      "startTime": 11348.0,
+      "endTime": 12703.3
+    },
+    {
+      "index": 11,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-11.mp3?1",
+      "duration_seconds": 1343.3,
+      "duration_formatted": "0:22:23",
+      "startTime": 12703.3,
+      "endTime": 14046.6
+    },
+    {
+      "index": 12,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-12.mp3?1",
+      "duration_seconds": 1400.0,
+      "duration_formatted": "0:23:20",
+      "startTime": 14046.6,
+      "endTime": 15446.6
+    },
+    {
+      "index": 13,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-13.mp3?1",
+      "duration_seconds": 1397.6,
+      "duration_formatted": "0:23:17",
+      "startTime": 15446.6,
+      "endTime": 16844.2
+    },
+    {
+      "index": 14,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-14.mp3?1",
+      "duration_seconds": 1400.5,
+      "duration_formatted": "0:23:20",
+      "startTime": 16844.2,
+      "endTime": 18244.7
+    },
+    {
+      "index": 15,
+      "url": "https://s3.knigavuhe.org/1/audio/5143/ottcy-i-deti-15.mp3?1",
+      "duration_seconds": 1525.9,
+      "duration_formatted": "0:25:25",
+      "startTime": 18244.7,
+      "endTime": 19770.6
+    }
+  ]
+},
+{
+  "id": "5",
+  "title": "Мастер и Маргарита",
+  "author": "Михаил Булгаков",
+  "genre": "Классика",
+  "description": "«Мастер и Маргарита» — многогранный роман Михаила Булгакова, объединяющий мистику, сатиру и философию. В центре сюжета — визит Сатаны (Воланда) в Москву 1930-х годов, трагическая история любви писателя (Мастера) к замужней женщине и его роман о суде над Иисусом Христом. Книга исследует темы веры, творчества и противостояния добра и злу.",
+  "views": 0,
+  "cover": "https://s5.knigavuhe.org/1/covers/177/3-4.jpg?v=2",
+  "durationFormatted": "13:00:24",
+  "narrators": [
+    "Эраст Гарин", "Михаил Жаров", "Людмила Касаткина", "Юрий Яковлев", "Алла Демидова", "Зинаида Славина", "Леонид Филатов", "Дальвин Щербаков", "Всеволод Абдулов", "Николай Губенко", "Леонид Ярмольник", "Михаил Филиппов", "Вениамин Смехов", "Валерий Золотухин", "Михаил Полицеймако"
+  ],
+  "durationHours": 13,
+  "tracks": [
+    {
+      "index": 1,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-01.mp3?1",
+      "duration_seconds": 1208.2,
+      "duration_formatted": "0:20:08",
+      "startTime": 0,
+      "endTime": 1208.2
+    },
+    {
+      "index": 2,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-02.mp3?1",
+      "duration_seconds": 2383.5,
+      "duration_formatted": "0:39:43",
+      "startTime": 1208.2,
+      "endTime": 3591.7
+    },
+    {
+      "index": 3,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-03.mp3?1",
+      "duration_seconds": 569.8,
+      "duration_formatted": "0:09:29",
+      "startTime": 3591.7,
+      "endTime": 4161.6
+    },
+    {
+      "index": 4,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-04.mp3?1",
+      "duration_seconds": 753.8,
+      "duration_formatted": "0:12:33",
+      "startTime": 4161.6,
+      "endTime": 4915.4
+    },
+    {
+      "index": 5,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-05.mp3?1",
+      "duration_seconds": 1833.6,
+      "duration_formatted": "0:30:33",
+      "startTime": 4915.4,
+      "endTime": 6749.0
+    },
+    {
+      "index": 6,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-06.mp3?1",
+      "duration_seconds": 1045.1,
+      "duration_formatted": "0:17:25",
+      "startTime": 6749.0,
+      "endTime": 7794.1
+    },
+    {
+      "index": 7,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-07.mp3?1",
+      "duration_seconds": 1415.0,
+      "duration_formatted": "0:23:35",
+      "startTime": 7794.1,
+      "endTime": 9209.1
+    },
+    {
+      "index": 8,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-08.mp3?1",
+      "duration_seconds": 1021.7,
+      "duration_formatted": "0:17:01",
+      "startTime": 9209.1,
+      "endTime": 10230.8
+    },
+    {
+      "index": 9,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-09.mp3?1",
+      "duration_seconds": 1091.5,
+      "duration_formatted": "0:18:11",
+      "startTime": 10230.8,
+      "endTime": 11322.2
+    },
+    {
+      "index": 10,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-10.mp3?1",
+      "duration_seconds": 1541.7,
+      "duration_formatted": "0:25:41",
+      "startTime": 11322.2,
+      "endTime": 12864.0
+    },
+    {
+      "index": 11,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-11.mp3?1",
+      "duration_seconds": 628.5,
+      "duration_formatted": "0:10:28",
+      "startTime": 12864.0,
+      "endTime": 13492.5
+    },
+    {
+      "index": 12,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-12.mp3?1",
+      "duration_seconds": 1524.7,
+      "duration_formatted": "0:25:24",
+      "startTime": 13492.5,
+      "endTime": 15017.2
+    },
+    {
+      "index": 13,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-13.mp3?1",
+      "duration_seconds": 2188.5,
+      "duration_formatted": "0:36:28",
+      "startTime": 15017.2,
+      "endTime": 17205.7
+    },
+    {
+      "index": 14,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-14.mp3?1",
+      "duration_seconds": 1300.9,
+      "duration_formatted": "0:21:40",
+      "startTime": 17205.7,
+      "endTime": 18506.6
+    },
+    {
+      "index": 15,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-15.mp3?1",
+      "duration_seconds": 1584.8,
+      "duration_formatted": "0:26:24",
+      "startTime": 18506.6,
+      "endTime": 20091.4
+    },
+    {
+      "index": 16,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-16.mp3?1",
+      "duration_seconds": 1527.2,
+      "duration_formatted": "0:25:27",
+      "startTime": 20091.4,
+      "endTime": 21618.6
+    },
+    {
+      "index": 17,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-17.mp3?1",
+      "duration_seconds": 1488.5,
+      "duration_formatted": "0:24:48",
+      "startTime": 21618.6,
+      "endTime": 23107.1
+    },
+    {
+      "index": 18,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-18.mp3?1",
+      "duration_seconds": 2140.1,
+      "duration_formatted": "0:35:40",
+      "startTime": 23107.1,
+      "endTime": 25247.3
+    },
+    {
+      "index": 19,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-19.mp3?1",
+      "duration_seconds": 1572.0,
+      "duration_formatted": "0:26:11",
+      "startTime": 25247.3,
+      "endTime": 26819.2
+    },
+    {
+      "index": 20,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-20.mp3?1",
+      "duration_seconds": 826.0,
+      "duration_formatted": "0:13:46",
+      "startTime": 26819.2,
+      "endTime": 27645.3
+    },
+    {
+      "index": 21,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-21.mp3?1",
+      "duration_seconds": 1878.1,
+      "duration_formatted": "0:31:18",
+      "startTime": 27645.3,
+      "endTime": 29523.4
+    },
+    {
+      "index": 22,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-22.mp3?1",
+      "duration_seconds": 1482.2,
+      "duration_formatted": "0:24:42",
+      "startTime": 29523.4,
+      "endTime": 31005.6
+    },
+    {
+      "index": 23,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-23.mp3?1",
+      "duration_seconds": 2232.1,
+      "duration_formatted": "0:37:12",
+      "startTime": 31005.6,
+      "endTime": 33237.7
+    },
+    {
+      "index": 24,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-24.mp3?1",
+      "duration_seconds": 2258.1,
+      "duration_formatted": "0:37:38",
+      "startTime": 33237.7,
+      "endTime": 35495.8
+    },
+    {
+      "index": 25,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-25.mp3?1",
+      "duration_seconds": 1180.0,
+      "duration_formatted": "0:19:40",
+      "startTime": 35495.8,
+      "endTime": 36675.8
+    },
+    {
+      "index": 26,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-26.mp3?1",
+      "duration_seconds": 2013.8,
+      "duration_formatted": "0:33:33",
+      "startTime": 36675.8,
+      "endTime": 38689.6
+    },
+    {
+      "index": 27,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-27.mp3?1",
+      "duration_seconds": 1578.5,
+      "duration_formatted": "0:26:18",
+      "startTime": 38689.6,
+      "endTime": 40268.1
+    },
+    {
+      "index": 28,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-28.mp3?1",
+      "duration_seconds": 1426.1,
+      "duration_formatted": "0:23:46",
+      "startTime": 40268.1,
+      "endTime": 41694.2
+    },
+    {
+      "index": 29,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-29.mp3?1",
+      "duration_seconds": 642.6,
+      "duration_formatted": "0:10:42",
+      "startTime": 41694.2,
+      "endTime": 42336.8
+    },
+    {
+      "index": 30,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-30.mp3?1",
+      "duration_seconds": 1250.2,
+      "duration_formatted": "0:20:50",
+      "startTime": 42336.8,
+      "endTime": 43587.0
+    },
+    {
+      "index": 31,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-31.mp3?1",
+      "duration_seconds": 542.5,
+      "duration_formatted": "0:09:02",
+      "startTime": 43587.0,
+      "endTime": 44129.5
+    },
+    {
+      "index": 32,
+      "url": "https://s9.knigavuhe.org/1/audio/177/glava-32.mp3?1",
+      "duration_seconds": 1084.6,
+      "duration_formatted": "0:18:04",
+      "startTime": 44129.5,
+      "endTime": 45214.1
+    },
+    {
+      "index": 33,
+      "url": "https://s9.knigavuhe.org/1/audio/177/ehpilog.mp3?1",
+      "duration_seconds": 1611,
+      "duration_formatted": "0:26:51",
+      "startTime": 45213.1,
+      "endTime": 46824.1
+    }
+  ]
+},
+{
+  "id": "6",
+  "title": "Евгений Онегин",
+  "author": "Александр Пушкин",
+  "genre": "Поэзия",
+  "description": "Евгений Онегин — молодой петербургский аристократ, «лишний человек». Циничный, образованный и разочарованный в жизни эгоист, он пресыщен светскими развлечениями.",
+  "views": 0,
+  "cover": "https://s5.knigavuhe.org/1/covers/3091/1-4.jpg?v=2",
+  "durationHours": 6.9,
+  "durationFormatted": "6:56:58",
+  "narrators": [
+    "Константин Мартенс"
+  ],
+  "tracks": [
+    {
+      "index": 1,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-00.mp3?1",
+      "duration_seconds": 254.0,
+      "duration_formatted": "0:04:14",
+      "startTime": 0,
+      "endTime": 254.0
+    },
+    {
+      "index": 2,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-01.mp3?1",
+      "duration_seconds": 679.8,
+      "duration_formatted": "0:11:19",
+      "startTime": 254.0,
+      "endTime": 933.8
+    },
+    {
+      "index": 3,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-02.mp3?1",
+      "duration_seconds": 579.0,
+      "duration_formatted": "0:09:38",
+      "startTime": 933.8,
+      "endTime": 1512.8
+    },
+    {
+      "index": 4,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-03.mp3?1",
+      "duration_seconds": 635.7,
+      "duration_formatted": "0:10:35",
+      "startTime": 1512.8,
+      "endTime": 2148.5
+    },
+    {
+      "index": 5,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-04.mp3?1",
+      "duration_seconds": 418.0,
+      "duration_formatted": "0:06:58",
+      "startTime": 2148.5,
+      "endTime": 2566.5
+    },
+    {
+      "index": 6,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-05.mp3?1",
+      "duration_seconds": 319.7,
+      "duration_formatted": "0:05:19",
+      "startTime": 2566.5,
+      "endTime": 2886.2
+    },
+    {
+      "index": 7,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-01-06.mp3?1",
+      "duration_seconds": 612.0,
+      "duration_formatted": "0:10:11",
+      "startTime": 2886.2,
+      "endTime": 3498.2
+    },
+    {
+      "index": 8,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-01.mp3?1",
+      "duration_seconds": 442.3,
+      "duration_formatted": "0:07:22",
+      "startTime": 3498.2,
+      "endTime": 3940.5
+    },
+    {
+      "index": 9,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-02.mp3?1",
+      "duration_seconds": 528.6,
+      "duration_formatted": "0:08:48",
+      "startTime": 3940.5,
+      "endTime": 4469.1
+    },
+    {
+      "index": 10,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-03.mp3?1",
+      "duration_seconds": 333.6,
+      "duration_formatted": "0:05:33",
+      "startTime": 4469.1,
+      "endTime": 4802.7
+    },
+    {
+      "index": 11,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-04.mp3?1",
+      "duration_seconds": 280.8,
+      "duration_formatted": "0:04:40",
+      "startTime": 4802.7,
+      "endTime": 5083.4
+    },
+    {
+      "index": 12,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-05.mp3?1",
+      "duration_seconds": 272.9,
+      "duration_formatted": "0:04:32",
+      "startTime": 5083.4,
+      "endTime": 5356.4
+    },
+    {
+      "index": 13,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-06.mp3?1",
+      "duration_seconds": 346.8,
+      "duration_formatted": "0:05:46",
+      "startTime": 5356.4,
+      "endTime": 5703.2
+    },
+    {
+      "index": 14,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-02-07.mp3?1",
+      "duration_seconds": 295.5,
+      "duration_formatted": "0:04:55",
+      "startTime": 5703.2,
+      "endTime": 5998.7
+    },
+    {
+      "index": 15,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-01.mp3?1",
+      "duration_seconds": 360.2,
+      "duration_formatted": "0:06:00",
+      "startTime": 5998.7,
+      "endTime": 6358.9
+    },
+    {
+      "index": 16,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-02.mp3?1",
+      "duration_seconds": 498.1,
+      "duration_formatted": "0:08:18",
+      "startTime": 6358.9,
+      "endTime": 6857.0
+    },
+    {
+      "index": 17,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-03.mp3?1",
+      "duration_seconds": 268.0,
+      "duration_formatted": "0:04:27",
+      "startTime": 6857.0,
+      "endTime": 7125.0
+    },
+    {
+      "index": 18,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-04.mp3?1",
+      "duration_seconds": 528.1,
+      "duration_formatted": "0:08:48",
+      "startTime": 7125.0,
+      "endTime": 7653.0
+    },
+    {
+      "index": 19,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-05.mp3?1",
+      "duration_seconds": 315.8,
+      "duration_formatted": "0:05:15",
+      "startTime": 7653.0,
+      "endTime": 7968.8
+    },
+    {
+      "index": 20,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-06.mp3?1",
+      "duration_seconds": 298.6,
+      "duration_formatted": "0:04:58",
+      "startTime": 7968.8,
+      "endTime": 8267.5
+    },
+    {
+      "index": 21,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-07.mp3?1",
+      "duration_seconds": 270.9,
+      "duration_formatted": "0:04:30",
+      "startTime": 8267.5,
+      "endTime": 8538.4
+    },
+    {
+      "index": 22,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-03-08.mp3?1",
+      "duration_seconds": 393.9,
+      "duration_formatted": "0:06:33",
+      "startTime": 8538.4,
+      "endTime": 8932.3
+    },
+    {
+      "index": 23,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-01.mp3?1",
+      "duration_seconds": 329.0,
+      "duration_formatted": "0:05:29",
+      "startTime": 8932.3,
+      "endTime": 9261.3
+    },
+    {
+      "index": 24,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-02.mp3?1",
+      "duration_seconds": 311.5,
+      "duration_formatted": "0:05:11",
+      "startTime": 9261.3,
+      "endTime": 9572.9
+    },
+    {
+      "index": 25,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-03.mp3?1",
+      "duration_seconds": 221.0,
+      "duration_formatted": "0:03:40",
+      "startTime": 9572.9,
+      "endTime": 9793.8
+    },
+    {
+      "index": 26,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-04.mp3?1",
+      "duration_seconds": 276.8,
+      "duration_formatted": "0:04:36",
+      "startTime": 9793.8,
+      "endTime": 10070.6
+    },
+    {
+      "index": 27,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-05.mp3?1",
+      "duration_seconds": 287.6,
+      "duration_formatted": "0:04:47",
+      "startTime": 10070.6,
+      "endTime": 10358.2
+    },
+    {
+      "index": 28,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-06.mp3?1",
+      "duration_seconds": 411.3,
+      "duration_formatted": "0:06:51",
+      "startTime": 10358.2,
+      "endTime": 10769.5
+    },
+    {
+      "index": 29,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-07.mp3?1",
+      "duration_seconds": 361.4,
+      "duration_formatted": "0:06:01",
+      "startTime": 10769.5,
+      "endTime": 11130.9
+    },
+    {
+      "index": 30,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-04-08.mp3?1",
+      "duration_seconds": 414.0,
+      "duration_formatted": "0:06:54",
+      "startTime": 11130.9,
+      "endTime": 11544.9
+    },
+    {
+      "index": 31,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-01.mp3?1",
+      "duration_seconds": 220.5,
+      "duration_formatted": "0:03:40",
+      "startTime": 11544.9,
+      "endTime": 11765.4
+    },
+    {
+      "index": 32,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-02.mp3?1",
+      "duration_seconds": 313.0,
+      "duration_formatted": "0:05:13",
+      "startTime": 11765.4,
+      "endTime": 12078.4
+    },
+    {
+      "index": 33,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-03.mp3?1",
+      "duration_seconds": 598.0,
+      "duration_formatted": "0:09:57",
+      "startTime": 12078.4,
+      "endTime": 12676.4
+    },
+    {
+      "index": 34,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-04.mp3?1",
+      "duration_seconds": 158.5,
+      "duration_formatted": "0:02:38",
+      "startTime": 12676.4,
+      "endTime": 12834.9
+    },
+    {
+      "index": 35,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-05.mp3?1",
+      "duration_seconds": 596.8,
+      "duration_formatted": "0:09:56",
+      "startTime": 12834.9,
+      "endTime": 13431.7
+    },
+    {
+      "index": 36,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-05-06.mp3?1",
+      "duration_seconds": 409.4,
+      "duration_formatted": "0:06:49",
+      "startTime": 13431.7,
+      "endTime": 13841.1
+    },
+    {
+      "index": 37,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-06-01.mp3?1",
+      "duration_seconds": 417.0,
+      "duration_formatted": "0:06:56",
+      "startTime": 13841.1,
+      "endTime": 14258.0
+    },
+    {
+      "index": 38,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-06-02.mp3?1",
+      "duration_seconds": 443.3,
+      "duration_formatted": "0:07:23",
+      "startTime": 14258.0,
+      "endTime": 14701.4
+    },
+    {
+      "index": 39,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-06-03.mp3?1",
+      "duration_seconds": 422.3,
+      "duration_formatted": "0:07:02",
+      "startTime": 14701.4,
+      "endTime": 15123.6
+    },
+    {
+      "index": 40,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-06-04.mp3?1",
+      "duration_seconds": 561.6,
+      "duration_formatted": "0:09:21",
+      "startTime": 15123.6,
+      "endTime": 15685.2
+    },
+    {
+      "index": 41,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-06-05.mp3?1",
+      "duration_seconds": 644.1,
+      "duration_formatted": "0:10:44",
+      "startTime": 15685.2,
+      "endTime": 16329.3
+    },
+    {
+      "index": 42,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-01.mp3?1",
+      "duration_seconds": 468.5,
+      "duration_formatted": "0:07:48",
+      "startTime": 16329.3,
+      "endTime": 16797.8
+    },
+    {
+      "index": 43,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-02.mp3?1",
+      "duration_seconds": 379.9,
+      "duration_formatted": "0:06:19",
+      "startTime": 16797.8,
+      "endTime": 17177.7
+    },
+    {
+      "index": 44,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-03.mp3?1",
+      "duration_seconds": 238.5,
+      "duration_formatted": "0:03:58",
+      "startTime": 17177.7,
+      "endTime": 17416.2
+    },
+    {
+      "index": 45,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-04.mp3?1",
+      "duration_seconds": 515.3,
+      "duration_formatted": "0:08:35",
+      "startTime": 17416.2,
+      "endTime": 17931.6
+    },
+    {
+      "index": 46,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-05.mp3?1",
+      "duration_seconds": 258.4,
+      "duration_formatted": "0:04:18",
+      "startTime": 17931.6,
+      "endTime": 18190.0
+    },
+    {
+      "index": 47,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-06.mp3?1",
+      "duration_seconds": 552.8,
+      "duration_formatted": "0:09:12",
+      "startTime": 18190.0,
+      "endTime": 18742.8
+    },
+    {
+      "index": 48,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-07.mp3?1",
+      "duration_seconds": 252.3,
+      "duration_formatted": "0:04:12",
+      "startTime": 18742.8,
+      "endTime": 18995.1
+    },
+    {
+      "index": 49,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-07-08.mp3?1",
+      "duration_seconds": 606.7,
+      "duration_formatted": "0:10:06",
+      "startTime": 18995.1,
+      "endTime": 19601.8
+    },
+    {
+      "index": 50,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-08-01.mp3?1",
+      "duration_seconds": 528.3,
+      "duration_formatted": "0:08:48",
+      "startTime": 19601.8,
+      "endTime": 20130.1
+    },
+    {
+      "index": 51,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-08-02.mp3?1",
+      "duration_seconds": 485.4,
+      "duration_formatted": "0:08:05",
+      "startTime": 20130.1,
+      "endTime": 20615.6
+    },
+    {
+      "index": 52,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-08-03.mp3?1",
+      "duration_seconds": 468.5,
+      "duration_formatted": "0:07:48",
+      "startTime": 20615.6,
+      "endTime": 21084.1
+    },
+    {
+      "index": 53,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-08-04.mp3?1",
+      "duration_seconds": 219.5,
+      "duration_formatted": "0:03:39",
+      "startTime": 21084.1,
+      "endTime": 21303.6
+    },
+    {
+      "index": 54,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-01.mp3?1",
+      "duration_seconds": 686.3,
+      "duration_formatted": "0:11:26",
+      "startTime": 21303.6,
+      "endTime": 21990.0
+    },
+    {
+      "index": 55,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-02.mp3?1",
+      "duration_seconds": 181.2,
+      "duration_formatted": "0:03:01",
+      "startTime": 21990.0,
+      "endTime": 22171.2
+    },
+    {
+      "index": 56,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-03.mp3?1",
+      "duration_seconds": 358.4,
+      "duration_formatted": "0:05:58",
+      "startTime": 22171.2,
+      "endTime": 22529.6
+    },
+    {
+      "index": 57,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-04.mp3?1",
+      "duration_seconds": 350.4,
+      "duration_formatted": "0:05:50",
+      "startTime": 22529.6,
+      "endTime": 22879.9
+    },
+    {
+      "index": 58,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-05.mp3?1",
+      "duration_seconds": 603.7,
+      "duration_formatted": "0:10:03",
+      "startTime": 22879.9,
+      "endTime": 23483.6
+    },
+    {
+      "index": 59,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-06.mp3?1",
+      "duration_seconds": 268.0,
+      "duration_formatted": "0:04:28",
+      "startTime": 23483.6,
+      "endTime": 23751.6
+    },
+    {
+      "index": 60,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-07.mp3?1",
+      "duration_seconds": 605.3,
+      "duration_formatted": "0:10:05",
+      "startTime": 23751.6,
+      "endTime": 24356.9
+    },
+    {
+      "index": 61,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-08.mp3?1",
+      "duration_seconds": 279.4,
+      "duration_formatted": "0:04:39",
+      "startTime": 24356.9,
+      "endTime": 24636.3
+    },
+    {
+      "index": 62,
+      "url": "https://s10.knigavuhe.org/1/audio/3091/evgeniy-onegin-09-09.mp3?1",
+      "duration_seconds": 382.1,
+      "duration_formatted": "0:06:22",
+      "startTime": 24636.3,
+      "endTime": 25018.4
+    }
+  ]
+},
+  {
+    "id": "7",
+    "title": "Палата № 6",
+    "author": "Антон Чехов",
+    "genre": "Классика",
+    "description": "Повесть А.П. Чехова «Палата №6» — это история о докторе Рагине, который возглавляет уездную больницу. Равнодушно наблюдая за царящим там ужасом, он начинает часто беседовать с пациентом Громовым. Вскоре из-за интриг завистников самого доктора объявляют сумасшедшим и запирают в ту же палату, где он погибает от удара.",
+    "views": 0,
+    "cover": "https://s9.knigavuhe.org/1/covers/47298/1-4.jpg?v=1",
+    "durationHours": 2.1,
+    "durationFormatted": "2:11:34",
+    "narrators": [
+      "Глеб Ноговицын"
+    ], "tracks": [
+      {
+        "index": 1,
+        "url": "https://s10.knigavuhe.org/1/audio/47298/palata-6-01.mp3",
+        "duration_seconds": 7894,
+        "duration_formatted": "0:18:04",
+        "startTime": 0,
+        "endTime": 7894
+      }
+]},
+  {
+    "id": "8",
+    "title": "Тихий Дон",
+    "author": "Михаил Шолохов",
+    "genre": "Классика",
+    "description": "Судьба казачества в годы Первой мировой и Гражданской войн.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 42.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Двенадцать стульев",
+    "authors": [
+      "Илья Ильф",
+      "Евгений Петров"
+    ],
+    "genre": "Юмор и сатира",
+    "description": "Во время революции и последовавшего за ней краткого периода военного коммунизма многие прятали свои ценности как можно надежнее. И вот Ипполит Матвеевич Воробьянинов, бывший Старгородский предводитель дворянства и светский лев, а ныне — скромный делопроизводитель ЗАГСа, узнает от умирающей тещи, что некогда она спрятала свои бриллианты и жемчуга в общей сложности на 150 000 золотых рублей под обивку одного из двенадцати стульев гостиного гарнитура работы известного мастера Гамбса.",
+    "views": 0,
+    "cover": "https://s5.knigavuhe.org/1/covers/44234/1-4.jpg?v=1",
+    "durationHours": 19,
+    "durationFormatted": "19:02:20",
+    "narrators": [
+      "Кирилл Петров"
+    ],
+    "tracks": [
+      {
+        "index": 1,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/01-dvenadcat-stulev.mp3",
+        "duration_seconds": 50.1,
+        "duration_formatted": "0:00:50",
+        "startTime": 0,
+        "endTime": 50.1
+      },
+      {
+        "index": 2,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/02-dvenadcat-stulev.mp3",
+        "duration_seconds": 637.3,
+        "duration_formatted": "0:10:37",
+        "startTime": 50.1,
+        "endTime": 687.4
+      },
+      {
+        "index": 3,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/03-dvenadcat-stulev.mp3",
+        "duration_seconds": 526.8,
+        "duration_formatted": "0:08:46",
+        "startTime": 687.4,
+        "endTime": 1214.3
+      },
+      {
+        "index": 4,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/04-dvenadcat-stulev.mp3",
+        "duration_seconds": 766.5,
+        "duration_formatted": "0:12:46",
+        "startTime": 1214.3,
+        "endTime": 1980.8
+      },
+      {
+        "index": 5,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/05-dvenadcat-stulev.mp3",
+        "duration_seconds": 175.8,
+        "duration_formatted": "0:02:55",
+        "startTime": 1980.8,
+        "endTime": 2156.6
+      },
+      {
+        "index": 6,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/06-dvenadcat-stulev.mp3",
+        "duration_seconds": 11.7,
+        "duration_formatted": "0:00:11",
+        "startTime": 2156.6,
+        "endTime": 2168.2
+      },
+      {
+        "index": 7,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/07-dvenadcat-stulev.mp3",
+        "duration_seconds": 2118.8,
+        "duration_formatted": "0:35:18",
+        "startTime": 2168.2,
+        "endTime": 4287.0
+      },
+      {
+        "index": 8,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/08-dvenadcat-stulev.mp3",
+        "duration_seconds": 1275.7,
+        "duration_formatted": "0:21:15",
+        "startTime": 4287.0,
+        "endTime": 5562.7
+      },
+      {
+        "index": 9,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/09-dvenadcat-stulev.mp3",
+        "duration_seconds": 1365.9,
+        "duration_formatted": "0:22:45",
+        "startTime": 5562.7,
+        "endTime": 6928.6
+      },
+      {
+        "index": 10,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/10-dvenadcat-stulev.mp3",
+        "duration_seconds": 1267.9,
+        "duration_formatted": "0:21:07",
+        "startTime": 6928.6,
+        "endTime": 8196.5
+      },
+      {
+        "index": 11,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/11-dvenadcat-stulev.mp3",
+        "duration_seconds": 1606.4,
+        "duration_formatted": "0:26:46",
+        "startTime": 8196.5,
+        "endTime": 9802.9
+      },
+      {
+        "index": 12,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/12-dvenadcat-stulev.mp3",
+        "duration_seconds": 2245.0,
+        "duration_formatted": "0:37:25",
+        "startTime": 9802.9,
+        "endTime": 12047.9
+      },
+      {
+        "index": 13,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/13-dvenadcat-stulev.mp3",
+        "duration_seconds": 1726.8,
+        "duration_formatted": "0:28:46",
+        "startTime": 12047.9,
+        "endTime": 13774.7
+      },
+      {
+        "index": 14,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/14-dvenadcat-stulev.mp3",
+        "duration_seconds": 1090.0,
+        "duration_formatted": "0:18:09",
+        "startTime": 13774.7,
+        "endTime": 14864.7
+      },
+      {
+        "index": 15,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/15-dvenadcat-stulev.mp3",
+        "duration_seconds": 729.3,
+        "duration_formatted": "0:12:09",
+        "startTime": 14864.7,
+        "endTime": 15594.0
+      },
+      {
+        "index": 16,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/16-dvenadcat-stulev.mp3",
+        "duration_seconds": 1633.6,
+        "duration_formatted": "0:27:13",
+        "startTime": 15594.0,
+        "endTime": 17227.5
+      },
+      {
+        "index": 17,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/17-dvenadcat-stulev.mp3",
+        "duration_seconds": 1222.3,
+        "duration_formatted": "0:20:22",
+        "startTime": 17227.5,
+        "endTime": 18449.9
+      },
+      {
+        "index": 18,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/18-dvenadcat-stulev.mp3",
+        "duration_seconds": 1739.1,
+        "duration_formatted": "0:28:59",
+        "startTime": 18449.9,
+        "endTime": 20189.0
+      },
+      {
+        "index": 19,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/19-dvenadcat-stulev.mp3",
+        "duration_seconds": 1904.0,
+        "duration_formatted": "0:31:43",
+        "startTime": 20189.0,
+        "endTime": 22093.0
+      },
+      {
+        "index": 20,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/20-dvenadcat-stulev.mp3",
+        "duration_seconds": 902.8,
+        "duration_formatted": "0:15:02",
+        "startTime": 22093.0,
+        "endTime": 22995.8
+      },
+      {
+        "index": 21,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/21-dvenadcat-stulev.mp3",
+        "duration_seconds": 859.3,
+        "duration_formatted": "0:14:19",
+        "startTime": 22995.8,
+        "endTime": 23855.0
+      },
+      {
+        "index": 22,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/22-dvenadcat-stulev.mp3",
+        "duration_seconds": 2404.6,
+        "duration_formatted": "0:40:04",
+        "startTime": 23855.0,
+        "endTime": 26259.6
+      },
+      {
+        "index": 23,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/23-dvenadcat-stulev.mp3",
+        "duration_seconds": 1743.9,
+        "duration_formatted": "0:29:03",
+        "startTime": 26259.6,
+        "endTime": 28003.5
+      },
+      {
+        "index": 24,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/24-dvenadcat-stulev.mp3",
+        "duration_seconds": 1111.7,
+        "duration_formatted": "0:18:31",
+        "startTime": 28003.5,
+        "endTime": 29115.2
+      },
+      {
+        "index": 25,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/25-dvenadcat-stulev.mp3",
+        "duration_seconds": 1679.1,
+        "duration_formatted": "0:27:59",
+        "startTime": 29115.2,
+        "endTime": 30794.4
+      },
+      {
+        "index": 26,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/26-dvenadcat-stulev.mp3",
+        "duration_seconds": 872.2,
+        "duration_formatted": "0:14:32",
+        "startTime": 30794.4,
+        "endTime": 31666.6
+      },
+      {
+        "index": 27,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/27-dvenadcat-stulev.mp3",
+        "duration_seconds": 1325.6,
+        "duration_formatted": "0:22:05",
+        "startTime": 31666.6,
+        "endTime": 32992.1
+      },
+      {
+        "index": 28,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/28-dvenadcat-stulev.mp3",
+        "duration_seconds": 1511.5,
+        "duration_formatted": "0:25:11",
+        "startTime": 32992.1,
+        "endTime": 34503.7
+      },
+      {
+        "index": 29,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/29-dvenadcat-stulev.mp3",
+        "duration_seconds": 54.3,
+        "duration_formatted": "0:00:54",
+        "startTime": 34503.7,
+        "endTime": 34558.0
+      },
+      {
+        "index": 30,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/30-dvenadcat-stulev.mp3",
+        "duration_seconds": 1404.9,
+        "duration_formatted": "0:23:24",
+        "startTime": 34558.0,
+        "endTime": 35962.9
+      },
+      {
+        "index": 31,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/31-dvenadcat-stulev.mp3",
+        "duration_seconds": 1605.9,
+        "duration_formatted": "0:26:45",
+        "startTime": 35962.9,
+        "endTime": 37568.7
+      },
+      {
+        "index": 32,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/32-dvenadcat-stulev.mp3",
+        "duration_seconds": 1225.7,
+        "duration_formatted": "0:20:25",
+        "startTime": 37568.7,
+        "endTime": 38794.4
+      },
+      {
+        "index": 33,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/33-dvenadcat-stulev.mp3",
+        "duration_seconds": 1554.4,
+        "duration_formatted": "0:25:54",
+        "startTime": 38794.4,
+        "endTime": 40348.8
+      },
+      {
+        "index": 34,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/34-dvenadcat-stulev.mp3",
+        "duration_seconds": 1987.9,
+        "duration_formatted": "0:33:07",
+        "startTime": 40348.8,
+        "endTime": 42336.7
+      },
+      {
+        "index": 35,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/35-dvenadcat-stulev.mp3",
+        "duration_seconds": 1095.5,
+        "duration_formatted": "0:18:15",
+        "startTime": 42336.7,
+        "endTime": 43432.2
+      },
+      {
+        "index": 36,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/36-dvenadcat-stulev.mp3",
+        "duration_seconds": 625.8,
+        "duration_formatted": "0:10:25",
+        "startTime": 43432.2,
+        "endTime": 44058.0
+      },
+      {
+        "index": 37,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/37-dvenadcat-stulev.mp3",
+        "duration_seconds": 949.4,
+        "duration_formatted": "0:15:49",
+        "startTime": 44058.0,
+        "endTime": 45007.4
+      },
+      {
+        "index": 38,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/38-dvenadcat-stulev.mp3",
+        "duration_seconds": 202.8,
+        "duration_formatted": "0:03:22",
+        "startTime": 45007.4,
+        "endTime": 45210.2
+      },
+      {
+        "index": 39,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/39-dvenadcat-stulev.mp3",
+        "duration_seconds": 1263.7,
+        "duration_formatted": "0:21:03",
+        "startTime": 45210.2,
+        "endTime": 46473.9
+      },
+      {
+        "index": 40,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/40-dvenadcat-stulev.mp3",
+        "duration_seconds": 1802.0,
+        "duration_formatted": "0:30:01",
+        "startTime": 46473.9,
+        "endTime": 48275.9
+      },
+      {
+        "index": 41,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/41-dvenadcat-stulev.mp3",
+        "duration_seconds": 408.6,
+        "duration_formatted": "0:06:48",
+        "startTime": 48275.9,
+        "endTime": 48684.5
+      },
+      {
+        "index": 42,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/42-dvenadcat-stulev.mp3",
+        "duration_seconds": 1494.8,
+        "duration_formatted": "0:24:54",
+        "startTime": 48684.5,
+        "endTime": 50179.3
+      },
+      {
+        "index": 43,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/43-dvenadcat-stulev.mp3",
+        "duration_seconds": 2363.4,
+        "duration_formatted": "0:39:23",
+        "startTime": 50179.3,
+        "endTime": 52542.7
+      },
+      {
+        "index": 44,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/44-dvenadcat-stulev.mp3",
+        "duration_seconds": 1741.6,
+        "duration_formatted": "0:29:01",
+        "startTime": 52542.7,
+        "endTime": 54284.3
+      },
+      {
+        "index": 45,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/45-dvenadcat-stulev.mp3",
+        "duration_seconds": 1402.5,
+        "duration_formatted": "0:23:22",
+        "startTime": 54284.3,
+        "endTime": 55686.8
+      },
+      {
+        "index": 46,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/46-dvenadcat-stulev.mp3",
+        "duration_seconds": 211.8,
+        "duration_formatted": "0:03:31",
+        "startTime": 55686.8,
+        "endTime": 55898.6
+      },
+      {
+        "index": 47,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/47-dvenadcat-stulev.mp3",
+        "duration_seconds": 1230.5,
+        "duration_formatted": "0:20:30",
+        "startTime": 55898.6,
+        "endTime": 57129.1
+      },
+      {
+        "index": 48,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/48-dvenadcat-stulev.mp3",
+        "duration_seconds": 2546.6,
+        "duration_formatted": "0:42:26",
+        "startTime": 57129.1,
+        "endTime": 59675.7
+      },
+      {
+        "index": 49,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/49-dvenadcat-stulev.mp3",
+        "duration_seconds": 1350.3,
+        "duration_formatted": "0:22:30",
+        "startTime": 59675.7,
+        "endTime": 61026.0
+      },
+      {
+        "index": 50,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/50-dvenadcat-stulev.mp3",
+        "duration_seconds": 1439.1,
+        "duration_formatted": "0:23:59",
+        "startTime": 61026.0,
+        "endTime": 62465.1
+      },
+      {
+        "index": 51,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/51-dvenadcat-stulev.mp3",
+        "duration_seconds": 1149.6,
+        "duration_formatted": "0:19:09",
+        "startTime": 62465.1,
+        "endTime": 63614.7
+      },
+      {
+        "index": 52,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/52-dvenadcat-stulev.mp3",
+        "duration_seconds": 1570.2,
+        "duration_formatted": "0:26:10",
+        "startTime": 63614.7,
+        "endTime": 65184.9
+      },
+      {
+        "index": 53,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/53-dvenadcat-stulev.mp3",
+        "duration_seconds": 1789.1,
+        "duration_formatted": "0:29:49",
+        "startTime": 65184.9,
+        "endTime": 66974.1
+      },
+      {
+        "index": 54,
+        "url": "https://s12.knigavuhe.org/1/audio/44234/54-dvenadcat-stulev.mp3",
+        "duration_seconds": 1565.3,
+        "duration_formatted": "0:26:05",
+        "startTime": 66974.1,
+        "endTime": 68539.4
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Золотой телёнок",
+    "authors": [
+      "Илья Ильф",
+      "Евгений Петров"
+    ],
+    "genre": "Юмор и сатира",
+    "description": "«Золотой телёнок» — знаменитый сатирический роман Ильи Ильфа и Евгения Петрова. В центре сюжета — авантюрист Остап Бендер, который узнает о тайном миллионере Александре Корейко. Бендер идет на шантаж, чтобы заполучить богатство, но оказывается, что в советской реальности легально потратить этот миллион практически невозможно. ",
+    "views": 0,
+    "cover": "https://s5.knigavuhe.org/1/covers/31630/1-4.jpg?v=1",
+    "durationHours": 16.2,
+    "durationFormatted": "16:13:07",
+    "narrators": [
+      "Александр Синица"
+    ],
+    "tracks": [
+      {
+        "index": 1,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-00.mp3",
+        "duration_seconds": 253.0,
+        "duration_formatted": "0:04:13",
+        "startTime": 0,
+        "endTime": 253.0
+      },
+      {
+        "index": 2,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-01.mp3",
+        "duration_seconds": 1766.0,
+        "duration_formatted": "0:29:26",
+        "startTime": 253.0,
+        "endTime": 2019.1
+      },
+      {
+        "index": 3,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-02.mp3",
+        "duration_seconds": 1869.0,
+        "duration_formatted": "0:31:09",
+        "startTime": 2019.1,
+        "endTime": 3888.1
+      },
+      {
+        "index": 4,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-03.mp3",
+        "duration_seconds": 1806.0,
+        "duration_formatted": "0:30:06",
+        "startTime": 3888.1,
+        "endTime": 5694.1
+      },
+      {
+        "index": 5,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-04.mp3",
+        "duration_seconds": 1559.5,
+        "duration_formatted": "0:25:59",
+        "startTime": 5694.1,
+        "endTime": 7253.6
+      },
+      {
+        "index": 6,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-05.mp3",
+        "duration_seconds": 1206.0,
+        "duration_formatted": "0:20:06",
+        "startTime": 7253.6,
+        "endTime": 8459.7
+      },
+      {
+        "index": 7,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoi-telenok-6.mp3",
+        "duration_seconds": 1782.7,
+        "duration_formatted": "0:29:42",
+        "startTime": 8459.7,
+        "endTime": 10242.4
+      },
+      {
+        "index": 8,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-07.mp3",
+        "duration_seconds": 1794.0,
+        "duration_formatted": "0:29:54",
+        "startTime": 10242.4,
+        "endTime": 12036.4
+      },
+      {
+        "index": 9,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-08.mp3",
+        "duration_seconds": 2135.0,
+        "duration_formatted": "0:35:35",
+        "startTime": 12036.4,
+        "endTime": 14171.4
+      },
+      {
+        "index": 10,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-09.mp3",
+        "duration_seconds": 1855.9,
+        "duration_formatted": "0:30:55",
+        "startTime": 14171.4,
+        "endTime": 16027.4
+      },
+      {
+        "index": 11,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-10.mp3",
+        "duration_seconds": 720.0,
+        "duration_formatted": "0:12:00",
+        "startTime": 16027.4,
+        "endTime": 16747.4
+      },
+      {
+        "index": 12,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-11.mp3",
+        "duration_seconds": 1525.0,
+        "duration_formatted": "0:25:25",
+        "startTime": 16747.4,
+        "endTime": 18272.4
+      },
+      {
+        "index": 13,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-12.mp3",
+        "duration_seconds": 1642.0,
+        "duration_formatted": "0:27:22",
+        "startTime": 18272.4,
+        "endTime": 19914.5
+      },
+      {
+        "index": 14,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-13.mp3",
+        "duration_seconds": 2710.0,
+        "duration_formatted": "0:45:10",
+        "startTime": 19914.5,
+        "endTime": 22624.5
+      },
+      {
+        "index": 15,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-14.mp3",
+        "duration_seconds": 1801.0,
+        "duration_formatted": "0:30:01",
+        "startTime": 22624.5,
+        "endTime": 24425.5
+      },
+      {
+        "index": 16,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-15.mp3",
+        "duration_seconds": 1922.0,
+        "duration_formatted": "0:32:02",
+        "startTime": 24425.5,
+        "endTime": 26347.5
+      },
+      {
+        "index": 17,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-16.mp3",
+        "duration_seconds": 2032.0,
+        "duration_formatted": "0:33:52",
+        "startTime": 26347.5,
+        "endTime": 28379.6
+      },
+      {
+        "index": 18,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-17.mp3",
+        "duration_seconds": 1596.0,
+        "duration_formatted": "0:26:36",
+        "startTime": 28379.6,
+        "endTime": 29975.6
+      },
+      {
+        "index": 19,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-18.mp3",
+        "duration_seconds": 2262.0,
+        "duration_formatted": "0:37:42",
+        "startTime": 29975.6,
+        "endTime": 32237.6
+      },
+      {
+        "index": 20,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-19.mp3",
+        "duration_seconds": 976.0,
+        "duration_formatted": "0:16:16",
+        "startTime": 32237.6,
+        "endTime": 33213.7
+      },
+      {
+        "index": 21,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-20.mp3",
+        "duration_seconds": 1856.0,
+        "duration_formatted": "0:30:56",
+        "startTime": 33213.7,
+        "endTime": 35069.7
+      },
+      {
+        "index": 22,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-21.mp3",
+        "duration_seconds": 1013.0,
+        "duration_formatted": "0:16:53",
+        "startTime": 35069.7,
+        "endTime": 36082.7
+      },
+      {
+        "index": 23,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-22.mp3",
+        "duration_seconds": 1331.0,
+        "duration_formatted": "0:22:11",
+        "startTime": 36082.7,
+        "endTime": 37413.7
+      },
+      {
+        "index": 24,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-23.mp3",
+        "duration_seconds": 1726.0,
+        "duration_formatted": "0:28:46",
+        "startTime": 37413.7,
+        "endTime": 39139.8
+      },
+      {
+        "index": 25,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-24.mp3",
+        "duration_seconds": 1952.2,
+        "duration_formatted": "0:32:32",
+        "startTime": 39139.8,
+        "endTime": 41091.9
+      },
+      {
+        "index": 26,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-25.mp3",
+        "duration_seconds": 1713.0,
+        "duration_formatted": "0:28:33",
+        "startTime": 41091.9,
+        "endTime": 42805.0
+      },
+      {
+        "index": 27,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-26.mp3",
+        "duration_seconds": 1736.0,
+        "duration_formatted": "0:28:56",
+        "startTime": 42805.0,
+        "endTime": 44541.0
+      },
+      {
+        "index": 28,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-27.mp3",
+        "duration_seconds": 1594.0,
+        "duration_formatted": "0:26:34",
+        "startTime": 44541.0,
+        "endTime": 46135.0
+      },
+      {
+        "index": 29,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-28.mp3",
+        "duration_seconds": 1474.0,
+        "duration_formatted": "0:24:34",
+        "startTime": 46135.0,
+        "endTime": 47609.0
+      },
+      {
+        "index": 30,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-29.mp3",
+        "duration_seconds": 1805.0,
+        "duration_formatted": "0:30:05",
+        "startTime": 47609.0,
+        "endTime": 49414.1
+      },
+      {
+        "index": 31,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-30.mp3",
+        "duration_seconds": 1308.0,
+        "duration_formatted": "0:21:48",
+        "startTime": 49414.1,
+        "endTime": 50722.1
+      },
+      {
+        "index": 32,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-31.mp3",
+        "duration_seconds": 1004.0,
+        "duration_formatted": "0:16:44",
+        "startTime": 50722.1,
+        "endTime": 51726.1
+      },
+      {
+        "index": 33,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-32.mp3",
+        "duration_seconds": 1158.0,
+        "duration_formatted": "0:19:18",
+        "startTime": 51726.1,
+        "endTime": 52884.1
+      },
+      {
+        "index": 34,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-33.mp3",
+        "duration_seconds": 836.0,
+        "duration_formatted": "0:13:56",
+        "startTime": 52884.1,
+        "endTime": 53720.2
+      },
+      {
+        "index": 35,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-34.mp3",
+        "duration_seconds": 1772.0,
+        "duration_formatted": "0:29:32",
+        "startTime": 53720.2,
+        "endTime": 55492.2
+      },
+      {
+        "index": 36,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-35.mp3",
+        "duration_seconds": 1667.0,
+        "duration_formatted": "0:27:47",
+        "startTime": 55492.2,
+        "endTime": 57159.2
+      },
+      {
+        "index": 37,
+        "url": "https://s4.knigavuhe.org/1/audio/31630/zolotoy-telenok-36.mp3",
+        "duration_seconds": 1229.0,
+        "duration_formatted": "0:20:29",
+        "startTime": 57159.2,
+        "endTime": 58388.3
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Герой нашего времени",
+    "author": "Михаил Лермонтов",
+    "genre": "Классика",
+    "description": "Портрет «лишнего человека» Печорина.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 9.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Обломов",
+    "author": "Иван Гончаров",
+    "genre": "Классика",
+    "description": "Жизнь Ильи Обломова и русской «обломовщины».",
+    "views": 0,
+    "cover": "",
+    "durationHours": 20.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Один день Ивана Денисовича",
+    "author": "Александр Солженицын",
+    "genre": "История",
+    "description": "Один день заключённого в сталинском лагере.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Архипелаг ГУЛАГ",
+    "author": "Александр Солженицын",
+    "genre": "История",
+    "description": "Исследование советской репрессивной системы.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 52.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Доктор Живаго",
+    "author": "Борис Пастернак",
+    "genre": "Классика",
+    "description": "Судьба врача и поэта на фоне революции и гражданской войны.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 22.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Левша",
+    "author": "Николай Лесков",
+    "genre": "Классика",
+    "description": "Умелец-левша и английская игла.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 3.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "17",
+    "title": "История одного города",
+    "author": "Михаил Салтыков-Щедрин",
+    "genre": "Юмор и сатира",
+    "description": "Аллегорическая хроника вымышленного города Глупова.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 9.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Гроза",
+    "author": "Александр Островский",
+    "genre": "Аудиоспектакли",
+    "description": "Конфликт Катерины с «тёмным царством» купечества.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 5.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Вишнёвый сад",
+    "author": "Антон Чехов",
+    "genre": "Аудиоспектакли",
+    "description": "Уходящая эпоха помещичьей России.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "20",
+    "title": "На дне",
+    "author": "Максим Горький",
+    "genre": "Аудиоспектакли",
+    "description": "Жители ночлежки и мечта о лучшей жизни.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 5.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Тёмные аллеи",
+    "author": "Иван Бунин",
+    "genre": "Классика",
+    "description": "Цикл лирических и психологических рассказов о любви.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 11.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Гранатовый браслет",
+    "author": "Александр Куприн",
+    "genre": "Классика",
+    "description": "Трагическая история безответной любви.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Кому на Руси жить хорошо",
+    "author": "Николай Некрасов",
+    "genre": "Поэзия",
+    "description": "Странствие семерых мужиков в поисках счастья.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 17.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Пётр Первый",
+    "author": "Алексей Толстой",
+    "genre": "История",
+    "description": "Эпоха петровских реформ.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 28.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Собачье сердце",
+    "author": "Михаил Булгаков",
+    "genre": "Юмор и сатира",
+    "description": "Эксперимент профессора Преображенского.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Анна Каренина",
+    "author": "Лев Толстой",
+    "genre": "Классика",
+    "description": "Трагедия Анны и картина русской жизни XIX века.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 38.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Идиот",
+    "author": "Фёдор Достоевский",
+    "genre": "Классика",
+    "description": "Князь Мышкин и попытка «положительно прекрасного человека».",
+    "views": 0,
+    "cover": "",
+    "durationHours": 32.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Братья Карамазовы",
+    "author": "Фёдор Достоевский",
+    "genre": "Классика",
+    "description": "Семья Карамазовых и вечные вопросы веры и морали.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 38.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Записки охотника",
+    "author": "Иван Тургенев",
+    "genre": "Классика",
+    "description": "Картины русской природы и крестьянской жизни.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 12.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Горе от ума",
+    "author": "Александр Грибоедов",
+    "genre": "Аудиоспектакли",
+    "description": "Сатира на светское общество, «умные мысли».",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Недоросль",
+    "author": "Денис Фонвизин",
+    "genre": "Аудиоспектакли",
+    "description": "Критика крепостничества и нравов дворянства.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 3.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Бедная Лиза",
+    "author": "Николай Карамзин",
+    "genre": "Классика",
+    "description": "Первая русская сентиментальная повесть.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 2.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Ревизор",
+    "author": "Николай Гоголь",
+    "genre": "Аудиоспектакли",
+    "description": "Приезд «ревизора» в провинциальный город.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 4.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Воскресение",
+    "author": "Лев Толстой",
+    "genre": "Классика",
+    "description": "Путь Нехлюдова и тема нравственного возрождения.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 28.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Господа Головлёвы",
+    "author": "Михаил Салтыков-Щедрин",
+    "genre": "Классика",
+    "description": "Разложение дворянской семьи Головлёвых.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 16.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Жизнь Арсеньева",
+    "author": "Иван Бунин",
+    "genre": "Классика",
+    "description": "Воспоминания писателя о детстве и юности.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 21.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Мы",
+    "author": "Евгений Замятин",
+    "genre": "Фантастика и фэнтези",
+    "description": "Тоталитарное «Единое Государство» будущего.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 7.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Котлован",
+    "author": "Андрей Платонов",
+    "genre": "Классика",
+    "description": "Коллективизация и «котлован» новой жизни.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 9.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Живые и мёртвые",
+    "author": "Константин Симонов",
+    "genre": "Классика",
+    "description": "Великая Отечественная война глазами Синцова.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 28.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "40",
+    "title": "А зори здесь тихие",
+    "author": "Борис Васильев",
+    "genre": "Классика",
+    "description": "Зенитчицы на фронте и цена войны.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 9.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Два капитана",
+    "author": "Вениамин Каверин",
+    "genre": "Приключения, вестерны и боевики",
+    "description": "Поиски Саши Григорьева и тайна отца.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 21.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Как закалялась сталь",
+    "author": "Николай Островский",
+    "genre": "Классика",
+    "description": "Жизнь Павки Корчагина и революционная стойкость.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 26.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Белеет парус одинокий",
+    "author": "Валентин Катаев",
+    "genre": "Классика",
+    "description": "Пионер Петька и гражданская война в Одессе.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 5.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Малахитовая шкатулка",
+    "author": "Павел Бажов",
+    "genre": "Для детей и Аудиосказки",
+    "description": "Уральские сказы о мастерах и горном духе.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 11.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Тень (пьесы)",
+    "author": "Евгений Шварц",
+    "genre": "Аудиоспектакли",
+    "description": "Сказочная пьеса о тени и человеческой душе.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 3.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Рассказы",
+    "author": "Михаил Зощенко",
+    "genre": "Юмор и сатира",
+    "description": "Сатирические зарисовки быта 1920–30-х.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 7.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Необыкновенные истории",
+    "authors": [
+      "Илья Ильф",
+      "Евгений Петров"
+    ],
+    "genre": "Юмор и сатира",
+    "description": "Юмористические новеллы соавторов.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 7.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Вий",
+    "author": "Николай Гоголь",
+    "genre": "Ужасы и мистика",
+    "description": "Украинское фольклорное повествование о нечисти.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 3.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Человек в футляре",
+    "author": "Антон Чехов",
+    "genre": "Классика",
+    "description": "История Беликова и «футлярной» жизни.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 1.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Защита Лужина",
+    "author": "Владимир Набоков",
+    "genre": "Классика",
+    "description": "Шахматист Лужин и его внутренний мир.",
+    "views": 0,
+    "cover": "",
+    "durationHours": 11.0,
+    "durationFormatted": "",
+    "narrators": [
+      ""
+    ]
+  }
+]
