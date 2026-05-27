@@ -39,10 +39,7 @@ export default function BookList({ books }) {
   }, [hasMore, books.length]);
 
   return (
-    <section aria-labelledby="catalog-heading">
-      <h2 id="catalog-heading" className="visually-hidden">
-        Список аудиокниг
-      </h2>
+    <section>
       <p
         className="visually-hidden"
         role="status"
@@ -51,13 +48,14 @@ export default function BookList({ books }) {
       >
         Показано {visibleBooks.length} из {books.length}
       </p>
-      <ul id="book-list" className="book-list" role="list">
+      <ul id="book-list" className="book-list">
         {visibleBooks.map((book, index) => (
           <BookCard
             key={book.id}
             book={book}
             index={index}
             className="book-card--enter"
+            aria-label={book.title}
             style={{ '--enter-delay': `${index * 40}ms` }}
           />
         ))}

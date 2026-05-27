@@ -60,7 +60,6 @@ export default function Layout() {
                 className={({ isActive }) =>
                   `layout__nav-link${isActive ? ' layout__nav-link--active' : ''}`
                 }
-                aria-label={`Каталог аудиокниг, всего ${books.length}`}
               >
                 Каталог
               </NavLink>
