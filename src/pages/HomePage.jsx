@@ -1,9 +1,9 @@
-import { useMemo, useState } from 'react';
+import { useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import BookFilters from '../components/BookFilters';
 import BookList from '../components/BookList';
 import books from '../data/books.json';
 import { filterBooks } from '../utils/filterBooks';
+import { useCatalogFilters } from '../context/CatalogFiltersContext';
 
 const VIEWS_PREFIX = 'audiobooks1:views:';
 
@@ -12,9 +12,7 @@ function normalize(value) {
 }
 
 export default function HomePage() {
-  const [minRating, setMinRating] = useState(0);
-  const [durationBucket, setDurationBucket] = useState('');
-  const [viewsSort, setViewsSort] = useState('');
+  const { minRating, durationBucket, viewsSort } = useCatalogFilters();
   const [searchParams] = useSearchParams();
   const query = searchParams.get('q') || '';
 
@@ -42,26 +40,8 @@ export default function HomePage() {
     return sorted;
   }, [minRating, durationBucket, viewsSort, query]);
 
-  const handleReset = () => {
-    setMinRating(0);
-    setDurationBucket('');
-    setViewsSort('');
-  };
-
   return (
     <>
-      <BookFilters
-        minRating={minRating}
-        durationBucket={durationBucket}
-        viewsSort={viewsSort}
-        resultCount={filteredBooks.length}
-        totalCount={books.length}
-        onMinRatingChange={setMinRating}
-        onDurationChange={setDurationBucket}
-        onViewsSortChange={setViewsSort}
-        onReset={handleReset}
-      />
-
       {filteredBooks.length === 0 ? (
         <p className="filters__empty" role="status">
           Ничего не найдено. Измените условия фильтров или строку поиска.

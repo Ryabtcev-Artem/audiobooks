@@ -26,10 +26,6 @@ export default function AuthorsPage() {
       </Link>
 
       <h2 className="page-title">Авторы</h2>
-      <p className="page-intro">
-        Все авторы в библиотеке. Число в скобках — количество их книг. Нажмите
-        Enter, чтобы открыть список произведений автора.
-      </p>
 
       <CatalogIndexList
         items={filteredAuthors}

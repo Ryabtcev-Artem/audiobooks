@@ -1,7 +1,43 @@
-import { NavLink, Link, Outlet } from 'react-router-dom';
+import { NavLink, Link, Outlet, useLocation, useSearchParams } from 'react-router-dom';
 import books from '../data/books.json';
-import { getAuthorStats, getGenreStats, getNarratorStats } from '../utils/filterBooks';
+import { filterBooks, getAuthorStats, getGenreStats, getNarratorStats } from '../utils/filterBooks';
 import HeaderSearch from './HeaderSearch';
+import BookFilters from './BookFilters';
+import { CatalogFiltersProvider, useCatalogFilters } from '../context/CatalogFiltersContext';
+
+function normalize(value) {
+  return String(value || '').trim().toLocaleLowerCase('ru');
+}
+
+function HeaderCatalogFilters() {
+  const { pathname } = useLocation();
+  const { minRating, durationBucket, viewsSort, setMinRating, setDurationBucket, setViewsSort, reset } = useCatalogFilters();
+  const [searchParams] = useSearchParams();
+  const query = searchParams.get('q') || '';
+
+  if (pathname !== '/') return null;
+
+  const resultCount = (() => {
+    const base = filterBooks(books, { minRating, durationBucket });
+    const q = normalize(query);
+    if (!q) return base.length;
+    return base.filter((b) => normalize(b.title).includes(q)).length;
+  })();
+
+  return (
+    <BookFilters
+      minRating={minRating}
+      durationBucket={durationBucket}
+      viewsSort={viewsSort}
+      resultCount={resultCount}
+      totalCount={books.length}
+      onMinRatingChange={setMinRating}
+      onDurationChange={setDurationBucket}
+      onViewsSortChange={setViewsSort}
+      onReset={reset}
+    />
+  );
+}
 
 export default function Layout() {
   const genreCount = getGenreStats(books).length;
@@ -9,7 +45,8 @@ export default function Layout() {
   const narratorCount = getNarratorStats(books).length;
 
   return (
-    <div className="layout">
+    <CatalogFiltersProvider>
+      <div className="layout">
       <a href="#main-content" className="skip-link">
         Перейти к основному содержимому
       </a>
@@ -77,6 +114,7 @@ export default function Layout() {
         </nav>
 
         <HeaderSearch />
+        <HeaderCatalogFilters />
       </header>
 
       <main id="main-content" className="layout__main" role="main" tabIndex={-1}>
@@ -89,6 +127,7 @@ export default function Layout() {
           незрячих и слабовидящих пользователей.
         </p>
       </footer>
-    </div>
+      </div>
+    </CatalogFiltersProvider>
   );
 }

@@ -26,10 +26,7 @@ export default function NarratorsPage() {
       </Link>
 
       <h2 className="page-title">Исполнители</h2>
-      <p className="page-intro">
-        Список исполнителей аудиокниг. Рядом указано, сколько книг озвучил
-        каждый исполнитель.
-      </p>
+
 
       <CatalogIndexList
         items={filteredNarrators}

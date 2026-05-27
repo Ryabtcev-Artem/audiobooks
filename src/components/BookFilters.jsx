@@ -26,7 +26,7 @@ export default function BookFilters({
       >
 
         <div className="filters__field">
-          <label htmlFor="filter-duration" className="filters__label">
+          <label htmlFor="filter-duration" className="filters__label aria-hidden">
             Длительность аудиоверсии
           </label>
           <select
@@ -35,7 +35,7 @@ export default function BookFilters({
             value={durationBucket}
             onChange={(e) => onDurationChange(e.target.value)}
           >
-            <option value="">Любая длительность</option>
+            <option value="">Длительность</option>
             {Object.values(DURATION_BUCKETS).map((bucket) => (
               <option key={bucket.id} value={bucket.id}>
                 {bucket.label}
@@ -54,7 +54,7 @@ export default function BookFilters({
             value={viewsSort}
             onChange={(e) => onViewsSortChange(e.target.value)}
           >
-            <option value="">Любая</option>
+            <option value="">Популярность</option>
             <option value="popular">Популярные</option>
             <option value="unpopular">Непопулярные</option>
           </select>
