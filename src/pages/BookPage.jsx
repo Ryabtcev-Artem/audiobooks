@@ -4,6 +4,7 @@ import AudioPlayer from '../components/AudioPlayer';
 import books from '../data/books.json';
 import eyeIcon from '../assets/eye.svg';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'https://audiobooksbackend.onrender.com';
 const VIEWS_PREFIX = 'audiobooks1:views:';
 const VIEWED_PREFIX = 'audiobooks1:viewed:';
 
@@ -29,28 +30,83 @@ export default function BookPage() {
   // Проверяем наличие треков (глав)
   const hasTracks = book.tracks && book.tracks.length > 0;
 
-  // Простейшие "просмотры" на localStorage: +1 один раз на пользователя/браузер для книги
   useEffect(() => {
     if (!book?.id) return;
 
     const viewsKey = `${VIEWS_PREFIX}${book.id}`;
     const viewedKey = `${VIEWED_PREFIX}${book.id}`;
+    let alreadyViewed = false;
 
     try {
-      const current = Number(localStorage.getItem(viewsKey) ?? 0) || 0;
-      const alreadyViewed = localStorage.getItem(viewedKey) === '1';
-
-      if (!alreadyViewed) {
-        const next = current + 1;
-        localStorage.setItem(viewsKey, String(next));
-        localStorage.setItem(viewedKey, '1');
-        setViews(next);
-      } else {
-        setViews(current);
-      }
+      alreadyViewed = localStorage.getItem(viewedKey) === '1';
     } catch {
-      // если localStorage недоступен — просто ничего не делаем
+      // localStorage может быть недоступен, оставляем false
     }
+
+    const fetchViews = async () => {
+      const response = await fetch(`${BACKEND_URL}/views/${encodeURIComponent(book.id)}`);
+      if (!response.ok) {
+        throw new Error('Failed to fetch views');
+      }
+      const result = await response.json();
+      return Number(result.views ?? result[book.id] ?? 0);
+    };
+
+    const incrementViews = async () => {
+      const response = await fetch(`${BACKEND_URL}/views/${encodeURIComponent(book.id)}/increment`, {
+        method: 'POST',
+      });
+      if (!response.ok) {
+        throw new Error('Failed to increment views');
+      }
+      const result = await response.json();
+      return Number(result.views ?? 0);
+    };
+
+    const setLocalViewed = () => {
+      try {
+        localStorage.setItem(viewedKey, '1');
+      } catch {
+        // ignore localStorage failures
+      }
+    };
+
+    const setLocalViews = (next) => {
+      try {
+        localStorage.setItem(viewsKey, String(next));
+      } catch {
+        // ignore localStorage failures
+      }
+      setViews(next);
+    };
+
+    const syncViews = async () => {
+      try {
+        if (alreadyViewed) {
+          const currentViews = await fetchViews();
+          setLocalViews(currentViews);
+        } else {
+          const nextViews = await incrementViews();
+          setLocalViewed();
+          setLocalViews(nextViews);
+        }
+      } catch {
+        try {
+          const current = Number(localStorage.getItem(viewsKey) ?? 0) || 0;
+          if (!alreadyViewed) {
+            const next = current + 1;
+            setLocalViewed();
+            setLocalViews(next);
+          } else {
+            setLocalViews(current);
+          }
+        } catch {
+          // если localStorage тоже недоступен — оставляем 0
+        }
+      }
+    };
+
+    syncViews();
   }, [book?.id]);
 
   return (
