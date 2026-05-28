@@ -37,10 +37,12 @@ export default function BookPage() {
     const viewedKey = `${VIEWED_PREFIX}${book.id}`;
     let alreadyViewed = false;
 
+    // Используем sessionStorage для отслеживания просмотров в текущей сессии
+    // Это означает, что каждая новая вкладка/окно считается новым пользователем
     try {
-      alreadyViewed = localStorage.getItem(viewedKey) === '1';
+      alreadyViewed = sessionStorage.getItem(viewedKey) === '1';
     } catch {
-      // localStorage может быть недоступен, оставляем false
+      // sessionStorage может быть недоступен, оставляем false
     }
 
     const fetchViews = async () => {
@@ -63,20 +65,15 @@ export default function BookPage() {
       return Number(result.views ?? 0);
     };
 
-    const setLocalViewed = () => {
+    const setSessionViewed = () => {
       try {
-        localStorage.setItem(viewedKey, '1');
+        sessionStorage.setItem(viewedKey, '1');
       } catch {
-        // ignore localStorage failures
+        // ignore sessionStorage failures
       }
     };
 
     const setLocalViews = (next) => {
-      try {
-        localStorage.setItem(viewsKey, String(next));
-      } catch {
-        // ignore localStorage failures
-      }
       setViews(next);
     };
 
@@ -87,21 +84,13 @@ export default function BookPage() {
           setLocalViews(currentViews);
         } else {
           const nextViews = await incrementViews();
-          setLocalViewed();
+          setSessionViewed();
           setLocalViews(nextViews);
         }
       } catch {
-        try {
-          const current = Number(localStorage.getItem(viewsKey) ?? 0) || 0;
-          if (!alreadyViewed) {
-            const next = current + 1;
-            setLocalViewed();
-            setLocalViews(next);
-          } else {
-            setLocalViews(current);
-          }
-        } catch {
-          // если localStorage тоже недоступен — оставляем 0
+        // При ошибке просто показываем 0 или последнее значение
+        if (!alreadyViewed) {
+          setSessionViewed();
         }
       }
     };
