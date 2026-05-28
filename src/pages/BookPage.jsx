@@ -12,6 +12,7 @@ export default function BookPage() {
   const { id } = useParams();
   const book = books.find((b) => b.id === id);
   const [views, setViews] = useState(0);
+  const [viewsLoading, setViewsLoading] = useState(true);
   const authors = Array.isArray(book?.authors) && book.authors.length > 0 ? book.authors : [book?.author].filter(Boolean);
   const narrators = Array.isArray(book?.narrators) ? book.narrators.filter(Boolean) : [];
 
@@ -75,6 +76,7 @@ export default function BookPage() {
 
     const setLocalViews = (next) => {
       setViews(next);
+      setViewsLoading(false);
     };
 
     const syncViews = async () => {
@@ -92,6 +94,7 @@ export default function BookPage() {
         if (!alreadyViewed) {
           setSessionViewed();
         }
+        setViewsLoading(false);
       }
     };
 
@@ -154,7 +157,9 @@ export default function BookPage() {
           </p>
           <p className="book-page__views">
             <img className="book-page__views-icon" src={eyeIcon} alt="" aria-hidden="true" />
-            <span className="book-page__views-count">{views}</span>
+            <span className="book-page__views-count">
+              {viewsLoading ? 'загрузка...' : views}
+            </span>
           </p>
           <p className="book-page__duration-label">
             Длительность аудиоверсии: {book.duration} (
