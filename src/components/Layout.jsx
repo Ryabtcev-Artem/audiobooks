@@ -119,6 +119,9 @@ export default function Layout() {
           © {new Date().getFullYear()} Голоса книг. Сайт создан для
           незрячих и слабовидящих пользователей.
         </p>
+        <p className="layout__contact">
+          Связь: <a href="mailto:voiceofbooks@gmail.com">voiceofbooks@gmail.com</a>
+        </p>
       </footer>
       </div>
     </CatalogFiltersProvider>

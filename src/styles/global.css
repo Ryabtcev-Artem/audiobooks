@@ -676,7 +676,11 @@ body {
   padding: var(--space-xl);
   margin-top: var(--space-xl);
 }
-
+.layout__contact {
+  a{
+    color: var(--color-accent);
+  }
+}
 .audio-player:focus {
   border-color: var(--color-accent);
 }

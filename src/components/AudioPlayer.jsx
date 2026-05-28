@@ -2,7 +2,8 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 
 const SKIP_SECONDS = 20;
 const STORAGE_PREFIX = 'audiobooks1:progress:';
-const RATE_STORAGE_KEY = 'audiobooks1:playbackRate';
+const RATE_STORAGE_PREFIX = 'audiobooks1:playbackRate:';
+const RATE_STORAGE_GLOBAL = 'audiobooks1:playbackRate';
 
 /**
  * Форматирование времени для длинных аудиокниг (Ч:ММ:СС)
@@ -71,10 +72,16 @@ export default function AudioPlayer({ bookId, title, tracks }) {
   // Есть ли треки (главы)
   const hasTracks = tracks && tracks.length > 0;
 
-  // Восстановление скорости (один раз)
+  // Восстановление скорости для книги (при смене bookId) с fallback на глобальную
   useEffect(() => {
     try {
-      const raw = localStorage.getItem(RATE_STORAGE_KEY);
+      let raw = null;
+      if (bookId) {
+        raw = localStorage.getItem(`${RATE_STORAGE_PREFIX}${bookId}`);
+      }
+      if (raw == null) {
+        raw = localStorage.getItem(RATE_STORAGE_GLOBAL);
+      }
       const n = Number(raw);
       if (Number.isFinite(n) && n >= 0.5 && n <= 2) {
         setPlaybackRate(n);
@@ -82,19 +89,25 @@ export default function AudioPlayer({ bookId, title, tracks }) {
     } catch {
       // ignore
     }
-  }, []);
+  }, [bookId]);
 
   // Применяем скорость к audio
   useEffect(() => {
     const audio = audioRef.current;
-    if (!audio) return;
-    audio.playbackRate = playbackRate;
-    try {
-      localStorage.setItem(RATE_STORAGE_KEY, String(playbackRate));
-    } catch {
-      // ignore
+    if (audio) {
+      audio.playbackRate = playbackRate;
     }
-  }, [playbackRate]);
+    try {
+      // Always persist playback rate; prefer per-book key when available
+      if (bookId) {
+        localStorage.setItem(`${RATE_STORAGE_PREFIX}${bookId}`, String(playbackRate));
+      }
+      // Also store under global key as fallback
+      localStorage.setItem(RATE_STORAGE_GLOBAL, String(playbackRate));
+    } catch {
+      // ignore storage errors
+    }
+  }, [playbackRate, bookId]);
 
   // Закрытие popover скорости по клику снаружи
   useEffect(() => {
