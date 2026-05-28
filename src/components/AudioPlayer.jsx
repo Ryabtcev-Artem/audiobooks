@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 
-const SKIP_SECONDS = 10;
+const SKIP_SECONDS = 20;
 const STORAGE_PREFIX = 'audiobooks1:progress:';
+const RATE_STORAGE_KEY = 'audiobooks1:playbackRate';
 
 /**
  * Форматирование времени для длинных аудиокниг (Ч:ММ:СС)
@@ -56,16 +57,63 @@ function findTrackByTime(tracks, targetTime) {
 export default function AudioPlayer({ bookId, title, tracks }) {
   const audioRef = useRef(null);
   const trackIndexRef = useRef(0);
+  const rateWrapRef = useRef(null);
   const [currentTrackIndex, setCurrentTrackIndex] = useState(0);
   const [globalTime, setGlobalTime] = useState(0);
   const [globalDuration, setGlobalDuration] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [playbackRate, setPlaybackRate] = useState(1);
+  const [isRateOpen, setIsRateOpen] = useState(false);
   const didRestoreRef = useRef(false);
   const saveTimeoutRef = useRef(null);
 
   // Есть ли треки (главы)
   const hasTracks = tracks && tracks.length > 0;
+
+  // Восстановление скорости (один раз)
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(RATE_STORAGE_KEY);
+      const n = Number(raw);
+      if (Number.isFinite(n) && n >= 0.5 && n <= 2) {
+        setPlaybackRate(n);
+      }
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  // Применяем скорость к audio
+  useEffect(() => {
+    const audio = audioRef.current;
+    if (!audio) return;
+    audio.playbackRate = playbackRate;
+    try {
+      localStorage.setItem(RATE_STORAGE_KEY, String(playbackRate));
+    } catch {
+      // ignore
+    }
+  }, [playbackRate]);
+
+  // Закрытие popover скорости по клику снаружи
+  useEffect(() => {
+    if (!isRateOpen) return;
+
+    const onPointerDown = (event) => {
+      const root = rateWrapRef.current;
+      if (!root) return;
+      if (root.contains(event.target)) return;
+      setIsRateOpen(false);
+    };
+
+    document.addEventListener('mousedown', onPointerDown, true);
+    document.addEventListener('touchstart', onPointerDown, true);
+    return () => {
+      document.removeEventListener('mousedown', onPointerDown, true);
+      document.removeEventListener('touchstart', onPointerDown, true);
+    };
+  }, [isRateOpen]);
 
   // Вычисляем общую длительность
   useEffect(() => {
@@ -406,6 +454,42 @@ export default function AudioPlayer({ bookId, title, tracks }) {
         >
           +{SKIP_SECONDS} сек
         </button>
+
+        <div className="audio-player__rate" ref={rateWrapRef}>
+          <button
+            type="button"
+            className="audio-player__btn audio-player__rate-btn"
+            aria-haspopup="dialog"
+            aria-expanded={isRateOpen}
+            onClick={() => setIsRateOpen((v) => !v)}
+          >
+            {playbackRate.toFixed(2)}×
+          </button>
+
+          {isRateOpen ? (
+            <div className="audio-player__rate-popover" role="dialog" aria-label="Скорость воспроизведения">
+              <label className="visually-hidden" htmlFor="playback-rate">
+                Скорость воспроизведения
+              </label>
+              <input
+                id="playback-rate"
+                type="range"
+                min={0.5}
+                max={2}
+                step={0.05}
+                value={playbackRate}
+                onChange={(e) => setPlaybackRate(Number(e.target.value))}
+                aria-valuemin={0.5}
+                aria-valuemax={2}
+                aria-valuenow={playbackRate}
+                aria-valuetext={`${playbackRate.toFixed(2)}×`}
+              />
+              <div className="audio-player__rate-value" aria-live="polite" aria-atomic="true">
+                {playbackRate.toFixed(2)}×
+              </div>
+            </div>
+          ) : null}
+        </div>
       </div>
 
       {/* Полоса прогресса */}
